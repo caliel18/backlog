@@ -83,13 +83,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "c/condominio-caminhosdocerrado.md",
+                "file": "dailynote/2025-12-8th.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of condominio-caminhosdocerrado"
+              "title": "Outline of 2025-12-8th"
             }
           },
           {
@@ -207,6 +207,7 @@
   },
   "active": "7766ea8527270c4c",
   "lastOpenFiles": [
+    "c/condominio-caminhosdocerrado.md",
     "a/agenda25.md",
     "dailynote/2025-12-8th.md",
     "dailynote/2025-12-7th.md",
@@ -246,7 +247,6 @@
     "w/weeklynotemodel-template.md",
     "w",
     "v/vscode-shortcuts.md",
-    "v/vscode-settingsjson.md",
     "v",
     "u",
     "templates",
