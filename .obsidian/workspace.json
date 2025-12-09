@@ -83,13 +83,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2025-12-8th.md",
+                "file": "c/condominio-caminhosdocerrado.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-12-8th"
+              "title": "Outline of condominio-caminhosdocerrado"
             }
           },
           {
@@ -202,14 +202,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "7766ea8527270c4c",
   "lastOpenFiles": [
-    "dailynote/2025-12-7th.md",
+    "a/agenda25.md",
     "dailynote/2025-12-8th.md",
+    "dailynote/2025-12-7th.md",
     "dailynote/2025-12-6th.md",
     "dailynote/2025-12-5th.md",
     "dailynote/2025-12-4th.md",
@@ -247,7 +247,6 @@
     "w",
     "v/vscode-shortcuts.md",
     "v/vscode-settingsjson.md",
-    "v/vscode-plugins.md",
     "v",
     "u",
     "templates",
