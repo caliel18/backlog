@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "e/exp33.md",
+                "file": "dailynote/2025-12-17th.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "exp33"
+              "title": "2025-12-17th"
             }
           }
         ]
@@ -83,13 +83,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "e/exp33.md",
+                "file": "dailynote/2025-12-17th.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of exp33"
+              "title": "Outline of 2025-12-17th"
             }
           },
           {
@@ -202,13 +202,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "7766ea8527270c4c",
   "lastOpenFiles": [
-    "dailynote/2025-12-16th.md",
     "e/exp33.md",
+    "dailynote/2025-12-17th.md",
+    "dailynote/2025-12-16th.md",
     "dailynote/2025-12-15th.md",
     "dailynote/2025-12-14th.md",
     "dailynote/2025-12-13th.md",
@@ -232,7 +234,6 @@
     "javascript/javascript-momentjs.md",
     "a/teste2.md",
     "dailynote/2025-12-2nd.md",
-    "README.md",
     "Pasted image 20250916235840.png",
     "Pasted image 20250916235805.png",
     "Pasted image 20250916235620.png",
