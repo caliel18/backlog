@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2025-12-21st.md",
+                "file": "dailynote/2025-12-22nd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-21st"
+              "title": "2025-12-22nd"
             }
           }
         ]
@@ -83,13 +83,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2025-12-21st.md",
+                "file": "dailynote/2025-12-22nd.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-12-21st"
+              "title": "Outline of 2025-12-22nd"
             }
           },
           {
@@ -202,13 +202,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "7766ea8527270c4c",
   "lastOpenFiles": [
-    "dailynote/2025-12-20th.md",
     "dailynote/2025-12-21st.md",
+    "dailynote/2025-12-22nd.md",
+    "dailynote/2025-12-20th.md",
     "w/whatsapp-profile.md",
     "dailynote/2025-12-19th.md",
     "dailynote/2025-12-18th.md",
@@ -232,7 +234,6 @@
     "dailynote/2025-12-3rd.md",
     "a/abnt.md",
     "a/tsete3.md",
-    "templates/template-dailynote.md",
     "Pasted image 20250916235840.png",
     "Pasted image 20250916235805.png",
     "Pasted image 20250916235620.png",
