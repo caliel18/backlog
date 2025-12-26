@@ -16,7 +16,7 @@ t5
 Sciel All Set -> Free Aim 4PA -> Intervention
 
 t6
-phase 1 Lune Typhoon
+phase 1 Lune Tsunami
 phase 2 Lune Elemental Genesis
 
 t7 
