@@ -202,20 +202,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "7766ea8527270c4c",
   "lastOpenFiles": [
     "dailynote/2025-12-28th.md",
+    "dailynote/2025-12-27th.md",
+    "dailynote/2025-12-26th.md",
+    "dailynote/2025-12-24th.md",
     "templates/template-dailynote.md",
     "templates/template-content.md",
     "templates/template-common.md",
-    "dailynote/2025-12-27th.md",
-    "dailynote/2025-12-26th.md",
     "e/exp33.md",
     "dailynote/2025-12-25th.md",
-    "dailynote/2025-12-24th.md",
     "dailynote/2025-12-23rd.md",
     "dailynote/2025-12-22nd.md",
     "dailynote/2025-12-21st.md",
