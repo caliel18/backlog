@@ -1,4 +1,4 @@
-# <% moment().locale('pt-br').format('MMMM Do YYYY LT'); %>
+# <% moment().locale('pt').format('MMMM Do YYYY LT'); %>
 
 [Agenda 2025](/a/agenda25.md)
 ## Objetivo principal
