@@ -3,7 +3,11 @@ Simons attacks at light speed
 deve dar parry em todos os ataques (rmb)
 
 t2 
-phase1 Maelle Gradient Attack(Q) -> Virtuose Attack (Q3) -> virtuose stance
+phase1 
+if gradient bar = 3
+	Maelle Gradient Attack(Q) -> Virtuose Attack (Q3) -> virtuose stance 
+if gradient bar <= 2
+	Maelle Free Shot + Basic Attack -> gradient bar = 2
 phase2 Maelle 3 shots -> 6 PA,  Basic Attack -> Defensive Stance
 
 t3
