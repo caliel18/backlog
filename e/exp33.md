@@ -17,14 +17,14 @@ Sciel All Set -> Free Aim 4PA -> Intervention
 
 t6
 phase 1 Lune Tsunami
-phase 2 Lune Elemental Genesis
+phase 2 Lune Elemental Trick
 
 t7 
 phase 1 Sciel Free Aim Shot 0PA -> Basic Attack
 phase 2 Sciel Fortune Tell -> Lune
 
 t8 
-phase 1 
+phase 1 Lune Electric Danse
 
 # Build
 
