@@ -202,13 +202,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "7766ea8527270c4c",
   "lastOpenFiles": [
-    "templates/template-dailynote.md",
+    "e/exp33.md",
     "dailynote/2025-12-28th.md",
+    "templates/template-dailynote.md",
     "m/markdown-doc.md",
     "m/mapeamento-emocoes.md",
     "l/liveserver-vscode.md",
@@ -232,7 +234,6 @@
     "g/github-markdown.md",
     "g/github-doc.md",
     "g/github-carloshenriquecrx.md",
-    "g/git-tree.md",
     "Pasted image 20250916235840.png",
     "Pasted image 20250916235805.png",
     "Pasted image 20250916235620.png",
