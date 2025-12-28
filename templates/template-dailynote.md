@@ -1,4 +1,4 @@
-# <% moment().format('LLL'); %>
+# <% moment().locale('ptbr').format('LLL'); %>
 
 [Agenda 2025](/a/agenda25.md)
 ## Objetivo principal
