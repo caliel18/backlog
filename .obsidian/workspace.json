@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2025-12-28th.md",
+                "file": "dailynote/2025-12-29th.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-28th"
+              "title": "2025-12-29th"
             }
           }
         ]
@@ -83,13 +83,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2025-12-28th.md",
+                "file": "dailynote/2025-12-29th.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-12-28th"
+              "title": "Outline of 2025-12-29th"
             }
           },
           {
@@ -202,13 +202,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "7766ea8527270c4c",
   "lastOpenFiles": [
-    "e/exp33.md",
     "dailynote/2025-12-28th.md",
+    "dailynote/2025-12-29th.md",
+    "e/exp33.md",
     "templates/template-dailynote.md",
     "m/markdown-doc.md",
     "m/mapeamento-emocoes.md",
@@ -232,7 +234,6 @@
     "g/golang.md",
     "g/github-markdown.md",
     "g/github-doc.md",
-    "g/github-carloshenriquecrx.md",
     "Pasted image 20250916235840.png",
     "Pasted image 20250916235805.png",
     "Pasted image 20250916235620.png",
