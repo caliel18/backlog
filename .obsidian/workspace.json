@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-01-3rd.md",
+                "file": "dailynote/2026-01-4th.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-3rd"
+              "title": "2026-01-4th"
             }
           }
         ]
@@ -83,13 +83,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-01-3rd.md",
+                "file": "dailynote/2026-01-4th.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-01-3rd"
+              "title": "Outline of 2026-01-4th"
             }
           },
           {
@@ -202,13 +202,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "7766ea8527270c4c",
   "lastOpenFiles": [
-    "dailynote/2026-01-2nd.md",
     "dailynote/2026-01-3rd.md",
+    "dailynote/2026-01-4th.md",
+    "dailynote/2026-01-2nd.md",
     "dailynote/2026-01-1stsssssssssss.md",
     "dailynote/2025-12-31st.md",
     "dailynote/2025-12-30th.md",
@@ -232,7 +234,6 @@
     "i/intelbras-cam.md",
     "i/iframe-w3.md",
     "i/icon-source.md",
-    "i/ia-verificação.md",
     "Pasted image 20250916235840.png",
     "Pasted image 20250916235805.png",
     "Pasted image 20250916235620.png",
