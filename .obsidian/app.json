@@ -14,5 +14,6 @@
   "autoConvertHtml": false,
   "useMarkdownLinks": true,
   "propertiesInDocument": "visible",
-  "showLineNumber": false
+  "showLineNumber": false,
+  "openBehavior": "daily"
 }
