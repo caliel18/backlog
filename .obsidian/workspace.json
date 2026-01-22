@@ -39,12 +39,14 @@
             "id": "806498ab8a7b7293",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "dailynote/2026-01-22nd.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "icon": "lucide-file",
+              "title": "2026-01-22nd"
             }
           }
         ],
@@ -110,12 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "dailynote/2026-01-22nd.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2026-01-22nd"
             }
           },
           {
@@ -234,6 +237,7 @@
   },
   "active": "806498ab8a7b7293",
   "lastOpenFiles": [
+    "dailynote/2026-01-22nd.md",
     "dailynote/2026-01-21st.md",
     "dailynote/2026-01-11th.md",
     "dailynote/2026-01-12th.md",
@@ -259,7 +263,6 @@
     "m/mapeamento-emocoes.md",
     "l/liveserver-vscode.md",
     "l/laravel-phpini.md",
-    "l/linkedin-profile.md",
     "Pasted image 20250916235840.png",
     "Pasted image 20250916235805.png",
     "Pasted image 20250916235620.png",
