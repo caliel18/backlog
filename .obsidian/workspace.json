@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-02-8th.md",
+                "file": "dailynote/2026-02-9th.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-8th"
+              "title": "2026-02-9th"
             }
           }
         ],
@@ -98,13 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-02-8th.md",
+                "file": "dailynote/2026-02-9th.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-02-8th"
+              "title": "Outline of 2026-02-9th"
             }
           },
           {
@@ -223,8 +223,9 @@
   },
   "active": "4d27387572536ca3",
   "lastOpenFiles": [
-    "dailynote/2026-02-7th.md",
     "dailynote/2026-02-8th.md",
+    "dailynote/2026-02-9th.md",
+    "dailynote/2026-02-7th.md",
     "dailynote/2026-02-6th.md",
     "dailynote/2026-02-5th.md",
     "dailynote/2026-02-4th.md",
@@ -248,7 +249,6 @@
     "a/agenda25.md",
     "dailynote/2026-01-9th.md",
     "dailynote/2026-01-8th.md",
-    "dailynote/2026-01-7th.md",
     "Pasted image 20250916235840.png",
     "Pasted image 20250916235805.png",
     "Pasted image 20250916235620.png",
