@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "l/log-mydiary.md",
+                "file": "l/log-randomize.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "log-mydiary"
+              "title": "log-randomize"
             }
           },
           {
@@ -97,13 +97,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "l/log-mydiary.md",
+                "file": "l/log-randomize.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of log-mydiary"
+              "title": "Outline of log-randomize"
             }
           },
           {
@@ -223,7 +223,7 @@
   "active": "85fd8e9cf49374dc",
   "lastOpenFiles": [
     "dailynote/2026-02-22nd.md",
-    "l/log-mydiary.md",
+    "l/log-randomize.md",
     "dailynote/2026-02-21st.md",
     "dailynote/2026-02-20th.md",
     "dailynote/2026-02-19th.md",
