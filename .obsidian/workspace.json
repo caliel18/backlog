@@ -53,12 +53,14 @@
             "id": "7b3f4a4b40712ec1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "a/tsete3.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "tsete3"
             }
           }
         ],
@@ -124,12 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "a/tsete3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of tsete3"
             }
           },
           {
