@@ -34,8 +34,21 @@
               "icon": "lucide-file",
               "title": "2026-02-15th"
             }
+          },
+          {
+            "id": "154caf11b905c0df",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,13 +110,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "l/log-randomize.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of log-randomize"
+              "title": "Outline"
             }
           },
           {
@@ -220,10 +232,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "85fd8e9cf49374dc",
+  "active": "154caf11b905c0df",
   "lastOpenFiles": [
-    "dailynote/2026-02-22nd.md",
     "l/log-randomize.md",
+    "dailynote/2026-02-22nd.md",
     "dailynote/2026-02-21st.md",
     "dailynote/2026-02-20th.md",
     "dailynote/2026-02-19th.md",
