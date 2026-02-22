@@ -1,3 +1,78 @@
+
+What's new in 1.11.7
+Released on February 5, 2026
+
+Improved
+The help window and the vault chooser window have been updated to match the new design used in app settings.
+Bases: Table cell menu now shows "Copy" and "Paste" menu items.
+Settings: The sidebar no longer shows icons next to Community plugins.
+Added new choose-vault URI action to open the vault switcher.
+No longer broken
+Bases: Fixed bug where right-clicking on table selection would focus the cell (and hide the selection) instead of showing the selection menu.
+Fixed bug where a note would sometimes switch from reading mode to edit mode when clicking near embedded content.
+Released on February 5, 2026
+
+Improved
+The help window and the vault chooser window have been updated to match the new design used in app settings.
+Bases: Table cell menu now shows "Copy" and "Paste" menu items.
+Settings: The sidebar no longer shows icons next to Community plugins.
+Added new choose-vault URI action to open the vault switcher.
+No longer broken
+Bases: Fixed bug where right-clicking on table selection would focus the cell (and hide the selection) instead of showing the selection menu.
+Fixed bug where a note would sometimes switch from reading mode to edit mode when clicking near embedded content.
+Other versions
+What's new in 1.11.6
+What's new in 1.11.5
+What's new in 1.11.4
+What's new in 1.11.3
+What's new in 1.11.2
+What's new in 1.11.1
+What's new in 1.11.0
+What's new in 1.11
+Released on January 12, 2026
+
+Improvements
+Added icons to settings sections.
+Markdown links are now supported in text and list properties. Internal links are automatically updated when the destination file is moved or renamed.
+Daily notes: The daily note format can be selected from a list of predefined formats.
+Attempting to rename a file to include unsafe characters (such as '#' or ']') will only result in a warning.
+When importing files (e.g. via drag and drop), Obsidian now automatically strips out invalid characters from the filename.
+Added a "Copy path" submenu to the file context menu.
+macOS: Toggles and sliders are now styled to match their native counterparts.
+New setting Files & links › Default file to open. Choose between "Last opened files", "New note", "Specific note", or "Daily note". If you were previously using Daily notes option to "Open daily note on startup", be sure to update your vault to use this setting instead.
+New "Keychain" settings section for storing plugin secrets. Plugin API is coming soon.
+When text is selected, pasting a URL into the editor will convert the selection into a Markdown link using the URL (e.g. [selected text](pasted URL)).
+New setting: Community Plugins › Automatically check for plugin updates. Obsidian will check for plugin updates in the background every 3 days, or after the app updates.
+URI: new, open, and daily URI actions now support a new paneType param.
+Param	Description
+paneType=tab	Open in a new tab
+paneType=split	Open in a new tab group
+paneType=window	Open in a pop-out window (Desktop only)
+Added new "Copy current file path from system root" command.
+No longer broken
+Reference links no longer allow spaces before the link definition.
+Fixed issue where navigating between notes would sometimes cause a flicker when the properties list appeared/disappeared.
+Fixed external links (e.g. [link](http://example.com)) inside text and list properties not opening in the browser.
+Fixed issues with the "Inter" font not being recognized in the app.
+Fixed border and spacing around embedded Base files.
+Right-to-left languages (RTL): Fixed layout of property editor.
+Fixed "Move file" selector not showing the vault root (/) as a valid destination.
+Fixed bug where "No plugin updates found" toast never disappears.
+Fixed minor visual regression of the sidebar tab buttons.
+Graph view: Attachments no longer show the full file path.
+Bases: Fixed issues with list view virtualization when grouping is configured. Fixed groups not displaying while scrolling.
+Daily note: Fixed "Open next daily note" and "Open previous daily note" commands not working when daily note format included a folder path.
+Fixed display of bolded links in reading mode (e.g. **[[link]]**).
+Bases are now fully exported when using "Export to PDF."
+Fixed internal Markdown links in properties not working correctly when the file name contains spaces.
+Fixed a bug where switching focus between the main window and a pop-out window could cause the wrong tab to become active.
+Developers
+Obsidian is now bundled with Inter Variable font instead of Inter. Inter Variable supports variable font weights.
+Added SettingGroup to the API. Settings can now be organized into logical groups with optional headers. This should provide a more standardized design language for settings organization.
+API: Exposed new SecretStorage and a complementary SecretComponent for plugins to integrate with the secret storage. The secret storage is a new opt-in way for plugins to save keys that might be shared across multiple plugins. For example, a Google API token, or an OpenAI key. Instead of requiring users to copy-paste the same keys into multiple plugin settings, plugins can now fetch keys from a shared collection of secrets identified by a user-provided name.
+A complete list of previous changes can be found on our changelog.
+
+
 20260222-1
 # 1. Título A
 
