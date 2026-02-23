@@ -1,5 +1,5 @@
 # 2025
-## 2025-10-09th Quinta, Minha vó quebrou o joelho
+## 2025-10-09th Quebra
 
 Para minha surpresa hoje acordei com minha vó machucada. Ela caiu quando foi agoar as plantas na varanda com uma mangueira. Minha mãe já havia aplicado medicação em suas feridas sanguinolentas apesar de pequenas em extensão, localizadas no joelho e no dedo.
 
@@ -24,7 +24,7 @@ Talvez eu precise ler um livro de auto ajuda ou conversar. Sem opção para o se
 
 Me sinto um pouco melhor agora mas nao sei dizer o por que. O problema de nao ser forte o suficiente para carregar alguem, se repete. Barras e as flexs seriam suficientes para alterar o quadro? Qual a profundidade do ajuste mental e qual implementação da mudança de comportamento e reforço positivo seriam suficientes?
 
-## 2025-10-10th Sexta, Lágrimas de prata e o céu nublado
+## 2025-10-10th Lágrimas
 
 Ajudar a carregar/empurrar a maca ontem já colocou em cheque minha condição física. Ainda que não sofri grande dificuldade percebi que, se fosse para carregar, eu não conseguiria. Dali plantei uma semente no fundo do meu ser para trabalhar tal questão no futuro. Só espero que a semente floresça e seja diferente em sua existencia. Sim, o resultado depende em exclusivo de mim.
 
@@ -36,7 +36,7 @@ Chorei porque nao sei o que vai ser do meu futuro em relação ao passo de que t
 
 É como se o pacifista dentro de mim evoluísse e engolisse as formas agressoras em um engolir seco. Posso ter me esquecido de escrever algo importante. talvez hj seja meu segundo dia pior do ano... Quero me recuperar, sair desse estado. Encontrar luz onde só me restam sombras.
 
-## 2025-10-12th Domingo, Aguda distração, agonia mental e minha avo com o joelho quebrado
+## 2025-10-12th Distração
 
 Me vejo como um corpo retorcendo ao chão. Agonizando para não tomar um remédio, talvez por medo da dor da aplicação ou seu resultado, não sei explicar (aqui me refiro ao estado de estudo ativo versus conseguir um emprego na area de programação, já que estou desempregado aos 30 e ate hoje não atuei na área). As perturbações quanto ao cárater pouco frutífero das minhas escolhas durante a minha vida continuam. Apesar dos fantasmas me habitarem com afinco, me pergunto se eu estivesse ausente ou trabalhando, sera que eu conseguiria estar tão disposto fisica e mentalmente? A resposta é não. Desempregado consigo dar a atenção necessária a minha avó, já que estou aqui o tempo todo e que eventualmente ficamos sozinhos nos dois. 
 
@@ -44,7 +44,7 @@ Parte de mim fica feliz mas a outra parte triste por não ter dinheiro e carro. 
 
 Hoje até que estou bem. Não tocaram em meu nome até então como um alvo e também não cobraram nada. Já que descansei no sabado vou tentar avançar em algo hoje no que tange em estudar java. Há aqui grandes vortices problemáticos graves que envolvem situações de saúde parentais, prefiro não tocar no assunto por hora. É estranho alternar entre terceira e primeira pessoa. Consigo escrever melhor assim. Espero que seja uma boa prática para me aquecer e direcionar a escrever o que realmente importa (no caso conseguir estudar e um emprego).
 
-## 2025-10-20th Segunda, A culpa de não ter um carro aos 30
+## 2025-10-20th Culpa
 
 E no fim das contas um indíviduo (eu) de 30 anos de idade fui reduzido a um zero a esquerda por não ter um carro financiado em mil parcelas aos 30 anos de idade para carregar minha avó materna de 82 anos ja debilitada. Ao mesmo tempo que não tenho o que dizer também não sei o que pensar. Já passei daquela fase de me enfurecer até o topo e como um vulcão implodir por dentro. De certo modo já é um traço evolutivo pois me implodir em furia por dentro, ou por fora, tanto faz, não me traz nenhum avanço. Somente dor de cabeça, retrocesso, stress e um monte de outras coisas que não tem utilidade. O lado complexo do pacifista é perceber que no fim da linha os dois lados somente oferecem decomposição.
 
@@ -61,11 +61,7 @@ Ter que escolher entre me render como um fracasso aos 30 OU aproveitar cada mome
 
 A única frase que ecoa na minha mente agora é "Seja forte sozinho."
 
-## 2025-10-26th Domingo, AWS lambda e pequinez de acreditar em si
-
-Venho do futuro (dia 23 de novembro) quase um mês depois. Ambiente de execução versus repositório. Sem edições de código no primeiro. Vale ressaltar que em certo momento, sinto que vou estudar por horas o tópico AWS. Já tentei seguir um tutorial~~hell~~ no passado. Não deu certo. Há tempos que não acredito em mim e já me acostumei. O que me surpreende é a repentina mudança do hábito. 
-
-## 2025-11-27th Domingo, Definições das palavras "satisfação" e "aproveitar" e uma centelha de iniciativa
+## 2025-11-27th Centelha
 
 Resolvi revisar todas as notas do repositório do obsidian, linkar em um readme. Assim posso manter o controle sobre as novas notas e treinar sobre como fazer o readme funcionar. É um passo de tartaruga rumo ao espaço sideral. Ainda assim, sinto que vou lidar com readme no futuro. Queria conseguir fazer o obsidian ler uma pasta que comece com ponto (.nomedapasta). Terei de recorrer ao vscode?
 
@@ -116,11 +112,11 @@ Pontos que não posso esquecer de escrever:
 - Como eu poderia escrever uma estrutura funcional de log para substituir um dailynote? (modelo atual). A estrutura modelo proposto no chatGPT seria o ideal? (há uma conversa sobre o template de um modelo de log de atividade que difere do modelo de dailynote)
 - Sobre o quarto pontinho. Seria toda contaminação proveniente de uma falta de empenho ou vínculo profissional que deixaria um espaço vago a ser preenchido por algo tão díficil e tóxico? Ou estaria eu levando tudo a sério demais? Alguém para dividir o peso? (não acho que seria a solução tercerizar parte do problema com custo com um terapeuta, mas me parece ok se um dia conseguir pagar).
 - 
-## 2026-02-19th Luz-guia
+## 2026-02-19th Luz
 
 Noite, céu limpo.
 
-Letras arredondadas, corações lançados, jardim com flores púrpuras da cor do vazio. Um pequeno passo. Encontrei uma comunidade específica no discord de um professor Matheus Leandro Ferreira. É pequeno em relação ao da rocketseat mas sinto que por outro lado é algo que simboliza que eu posso estar mudando minha vida. Ambiente de crescimento onde eu posso encontrar colaboradores-instrutores-amigos coração. No fundo é uma parte gritante de mim que suplica por sair da solidão e por ter uma luz guia por menor que seja. Sim eu senti necessidade de escrever sobre o assunto. Joguei tempo no lixo e deveria ter tomado tal decisão de entrar em tal comunidade e ter um luz-guia ainda na faculdade? Sim. O erro me custou uma cicatriz enorme e que me fez não ser ninguem aos 30? Sim.
+Letras arredondadas, corações lançados, jardim com flores púrpuras da cor do vazio. Um pequeno passo. Encontrei uma comunidade específica no discord de um professor Matheus Leandro Ferreira. É pequeno em relação ao da rocketseat mas sinto que por outro lado é algo que simboliza que eu posso estar mudando minha vida. Ambiente de crescimento onde eu posso encontrar colaboradores-instrutores. No fundo é uma parte gritante de mim que suplica por sair da solidão e por ter uma luz guia por menor que seja. Sim eu senti necessidade de escrever sobre o assunto. Joguei tempo no lixo e deveria ter tomado tal decisão de entrar em tal comunidade e ter um luz-guia ainda na faculdade? Sim. O erro me custou uma cicatriz enorme e que me fez não ser ninguem aos 30? Sim.
 
 Eu sou minhas cicatrizes? Sim. O labirinto da reflexão que é feito com paredes de espelhos. Eu deveria escrever o nome da comunidade aqui e qual foi a origem do meu ímpeto quase sobrehumano que me fez pesquisar a comunidade e adicionar. Agora me faltam verbos, adjetivos, adverbios e disposição.
 
