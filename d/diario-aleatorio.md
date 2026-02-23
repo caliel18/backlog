@@ -1,4 +1,4 @@
-# 09/10/25 Quinta, Minha vó quebrou o joelho
+# 2025-10-09th Quinta, Minha vó quebrou o joelho
 
 Para minha surpresa hoje acordei com minha vó machucada. Ela caiu quando foi agoar as plantas na varanda com uma mangueira. Minha mãe já havia aplicado medicação em suas feridas sanguinolentas apesar de pequenas em extensão, localizadas no joelho e no dedo.
 
@@ -15,7 +15,7 @@ Apos a milésima tentativa de renascimento, esta, por sua vez, começou por, tri
 
 Apesar da situação gerar degenaração exponencial do estado emocional positivo devo permanecer a acreditar na esperança de que posso evoluir, aprender, sair desse quadro e de que minha avo possa melhorar.
 
-Ler tudo de todo pode ressoar rídiculo. A conexão dos três contextos, tristeza do acidentado, poço daquele que não foi e o estado de desconectado daquilo que te cerca pode me revelar novas respostas
+Ler tudo de todo pode ressoar rídiculo. A conexão dos três contextos, tristeza do acidentado, poço daquele que não foi e o estado de desconectado daquilo que te cerca pode me revelar novas respostas.
 
 Posso alimentar a anotação no futuro com conclusões pós declínio mas, me parece heroico demais, como se o amanhã trouxesse todas as respostas. E se a humanidade não houvesse amanhã? Exposto estariam todas suas mazelas viscerais?
 
@@ -23,7 +23,7 @@ Talvez eu precise ler um livro de auto ajuda ou conversar. Sem opção para o se
 
 Me sinto um pouco melhor agora mas nao sei dizer o por que. O problema de nao ser forte o suficiente para carregar alguem, se repete. Barras e as flexs seriam suficientes para alterar o quadro? Qual a profundidade do ajuste mental e qual implementação da mudança de comportamento e reforço positivo seriam suficientes?
 
-# 10/10/25 Sexta, Lágrimas de prata e o céu nublado
+# Sexta, Lágrimas de prata e o céu nublado
 
 Ajudar a carregar/empurrar a maca ontem já colocou em cheque minha condição física. Ainda que não sofri grande dificuldade percebi que, se fosse para carregar, eu não conseguiria. Dali plantei uma semente no fundo do meu ser para trabalhar tal questão no futuro. Só espero que a semente floresça e seja diferente em sua existencia. Sim, o resultado depende em exclusivo de mim.
 
