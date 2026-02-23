@@ -8,4 +8,4 @@ Já não é nosso primeiro encontro. Não o que dizer exatamente mas há em mim 
 
 17h43
 
-Acabei de perder um encontro porque não levei o celular para me comunicar. Já é a vigesima vez. Eu deveria pensar 
+Acabei de perder um encontro porque não levei o celular para me comunicar. Já é a vigesima vez. Eu deveria pensar melhor nisso. Eu cheguei lá e não tinha ninguém 
