@@ -40,4 +40,9 @@ Sobre o relogio. O relógio é, de modo ainda díficil de definir, um artefato q
 Ensolarado
 
 Pontos que não posso esquecer de escrever:
-- Vídeo da senhora ()
+- Tristeza profunda por não saber quem eu sou e meu propósito. O principal ponto aqui é não ter um emprego e não estar engajado na busca de um como deveria. Não estar estudando. A tristeza no fundo pode ser a contemplação do vazio que me habita neste sentido. Na melhor das hipoteses seria a proposta de maior grau de excelencia alcançavel
+- Poder revisitar meu repositório no obsidian é reconfortante. É como se eu estivesse voltando para ponto salvo. Por outro lado não sinto que seja o suficiente. Ao menos ainda.
+- Nível de perturbação alheio contínuo. Sim é como se metade de mim estivesse morto para então suportar tal fardo. Mas agora a vibração ainda que com teor ácido um pouco menor, ainda me impacta. Sei que é infantil e que fechar a porta seria necessário, mas não é isso que vai resolver o problema.
+- A importancia de alterar a natureza descritiva do diário para não ser um masturbador emocional, ou melhor, de um ponto de vista um pouco menos depreciativo, uma mola. Alterar também pode ser adicionar.
+- A resposta para a falta de direção, talvez, na melhor das hipoteses, esteja em um dos canais do youtube (kipper e canal do Marcio)
+- É chato e desgastante ficar reformando o repositorio mas pelo menos há um para se fazer isso. É chato
