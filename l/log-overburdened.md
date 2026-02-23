@@ -49,7 +49,7 @@ Pontos que não posso esquecer de escrever:
 - Como eu poderia escrever uma estrutura funcional de log para substituir um dailynote? (modelo atual). A estrutura modelo proposto no chatGPT seria o ideal? (há uma conversa sobre o template de um modelo de log de atividade que difere do modelo de dailynote)
 - Sobre o quarto pontinho. Seria toda contaminação proveniente de uma falta de empenho ou vínculo profissional que deixaria um espaço vago a ser preenchido por algo tão díficil e tóxico? Ou estaria eu levando tudo a sério demais? Alguém para dividir o peso? (não acho que seria a solução tercerizar parte do problema com custo com um terapeuta, mas me parece ok se um dia conseguir pagar).
 - 
-# 2026-02-19th
+# 2026-02-19th Luz-guia
 
 Noite, céu limpo.
 
@@ -59,7 +59,7 @@ Eu sou minhas cicatrizes? Sim. O labirinto da reflexão que é feito com paredes
 
 P.S.: A origem do ímpeto foi o desespero de encontrar uma comunidade no discord que seja de java e que aceite em algum tom iniciantes.
 
-# 2026-02-23th
+# 2026-02-23th Estilhaçar I
 
 Noite, nublado.
 
