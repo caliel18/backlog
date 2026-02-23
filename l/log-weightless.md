@@ -8,4 +8,4 @@ Já não é nosso primeiro encontro. Não o que dizer exatamente mas há em mim 
 
 17h43
 
-Acabei de perder um encontro porque não levei o celular para me comunicar. Já é a vigesima vez. Eu deveria pensar melhor nisso. Eu cheguei lá e não tinha ninguém 
+Acabei de perder um encontro porque não levei o celular para me comunicar. Já é a vigesima vez. Eu deveria pensar melhor nisso. Eu cheguei lá e não tinha ninguém no local combinado. Talvez perguntar "onde voce esta estacionado" poderia ajudar? Definitivamente me falta a resposta para uma solução definitiva. Queria poder conversar com ele uma segunda vez. É uma sensação frustrante.
