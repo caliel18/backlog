@@ -64,7 +64,7 @@ A única frase que ecoa na minha mente agora é "Seja forte sozinho."
 
 Venho do futuro (dia 23 de novembro) quase um mês depois. Ambiente de execução versus repositório. Sem edições de código no primeiro. Vale ressaltar que em certo momento, sinto que vou estudar por horas o tópico AWS. Já tentei seguir um tutorial~~hell~~ no passado. Não deu certo. Há tempos que não acredito em mim e já me acostumei. O que me surpreende é a repentina mudança do hábito. 
 
-# 23/11/25 2025-11-23th Domingo, Definições das palavras "satisfação" e "aproveitar" e uma centelha de iniciativa
+# 2025-11-27th Domingo, Definições das palavras "satisfação" e "aproveitar" e uma centelha de iniciativa
 
 Resolvi revisar todas as notas do repositório do obsidian, linkar em um readme. Assim posso manter o controle sobre as novas notas e treinar sobre como fazer o readme funcionar. É um passo de tartaruga rumo ao espaço sideral. Ainda assim, sinto que vou lidar com readme no futuro. Queria conseguir fazer o obsidian ler uma pasta que comece com ponto (.nomedapasta). Terei de recorrer ao vscode?
 
