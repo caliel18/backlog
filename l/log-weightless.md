@@ -6,3 +6,6 @@ Resumo: 1. acumular cargas titanicas é EXTREMAMENTE crucial para a presença ti
 
 Já não é nosso primeiro encontro. Não o que dizer exatamente mas há em mim uma vontade de estar com ele crescente. Quero que isso continue. Ele é relativamente alto, tem braços bem definidos, tem costas largas provavelmente de academia ou de um grande período de treino intenso. Seu cheiro é neutro em particular mas não quer dizer que não seja único. Eu poderia escrever a putaria toda aqui mas sei lá parece que escrever não vai ser suficiente para imprimir tudo que aconteceu. Só posso dizer que ele gozou durante o oral (fazendo em mim). É notável o que aconteceu. O nível de excitação das partes, ele gozar durante o oralzinho. Eu quero que isso aconteça de novo. Eu poderia começar a descrever tudo aqui, cores, cheiros, luzes, sensações, mas só não estou com paciência para compilar tudo em ordem espacial, cronológica. Importante: O relógio CASIO no pulso me deu superpoderes discretos quase não tão discretos assim. 
 
+17h43
+
+Acabei de perder um encontro porque não levei o celular para me comunicar. Já é a vigesima vez. Eu deveria pensar 
