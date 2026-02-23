@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-02-23rd.md",
+                "file": "e/english-quotes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-23rd"
+              "title": "english-quotes"
             }
           }
         ],
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-02-23rd.md",
+                "file": "e/english-quotes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-02-23rd"
+              "title": "Outline of english-quotes"
             }
           },
           {
@@ -245,13 +245,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "7b3f4a4b40712ec1",
   "lastOpenFiles": [
-    "a/abnt.md",
     "dailynote/2026-02-23rd.md",
+    "e/english-quotes.md",
+    "a/abnt.md",
     "a/Untitled.md",
     "y/yt-dlp.md",
     "l/log-x3zpm.md",
@@ -275,7 +277,6 @@
     "dailynote/2026-02-12th.md",
     "dailynote/2026-02-11th.md",
     "dailynote/2026-02-10th.md",
-    "dailynote/2026-02-9th.md",
     "Pasted image 20250916235840.png",
     "Pasted image 20250916235805.png",
     "Pasted image 20250916235620.png",
