@@ -1,3 +1,6 @@
-# 2026-02-23th 1D Guardar
+# 2026
+## 2026-02-22th 1 Resfriar
 
 Transei quatro vezes no sabado (sim, ontem, com o mesmo cara, fui ativo). Hoje a tarde senti uma onda bem forte. Não fiz nada em específico. Só pensei que se eu gastasse o vigor do tônus ali, se eu eventualmente precisase mais tarde poderia não ter com tamanha qualidade. Sim eu tinha certeza absoluta de que eu me cansaria mais rapido se batesse uma ali naquele momento. A linha de racíocinio "vou guardar e evitar de bater porque mais tarde posso precisar" foi o suficiente para me parar hoje. Pensar que posso ser unico e que posso encher a barrinha do medidor "único" se eu evitar de bater uma pode me ajudar nos outros dias. Vou ter que esperar os próximos dias chegarem. 
+
+## 2026-02-23th 2* 
