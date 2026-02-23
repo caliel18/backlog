@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "l/log-overburdened.md",
+                "file": "l/log-x3xp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "log-overburdened"
+              "title": "log-x3xp"
             }
           }
         ],
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "l/log-overburdened.md",
+                "file": "l/log-x3xp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of log-overburdened"
+              "title": "Outline of log-x3xp"
             }
           },
           {
@@ -251,11 +251,12 @@
   },
   "active": "7b3f4a4b40712ec1",
   "lastOpenFiles": [
+    "l/log-overburdened.md",
+    "l/log-x3xp.md",
     "dailynote/2026-02-22nd.md",
     "a/abnt.md",
     "a/Untitled.md",
     "a/tsete3.md",
-    "l/log-overburdened.md",
     "dailynote/2026-02-15th.md",
     "dailynote/2026-02-21st.md",
     "dailynote/2026-02-20th.md",
@@ -276,7 +277,6 @@
     "dailynote/2026-02-5th.md",
     "dailynote/2026-02-4th.md",
     "dailynote/2026-02-3rd.md",
-    "dailynote/2026-02-2nd.md",
     "Pasted image 20250916235840.png",
     "Pasted image 20250916235805.png",
     "Pasted image 20250916235620.png",
