@@ -23,7 +23,7 @@ Talvez eu precise ler um livro de auto ajuda ou conversar. Sem opção para o se
 
 Me sinto um pouco melhor agora mas nao sei dizer o por que. O problema de nao ser forte o suficiente para carregar alguem, se repete. Barras e as flexs seriam suficientes para alterar o quadro? Qual a profundidade do ajuste mental e qual implementação da mudança de comportamento e reforço positivo seriam suficientes?
 
-# Sexta, Lágrimas de prata e o céu nublado
+# 2025-10-10th Sexta, Lágrimas de prata e o céu nublado
 
 Ajudar a carregar/empurrar a maca ontem já colocou em cheque minha condição física. Ainda que não sofri grande dificuldade percebi que, se fosse para carregar, eu não conseguiria. Dali plantei uma semente no fundo do meu ser para trabalhar tal questão no futuro. Só espero que a semente floresça e seja diferente em sua existencia. Sim, o resultado depende em exclusivo de mim.
 
