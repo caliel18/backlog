@@ -26,7 +26,7 @@ Obedecendo a uma dinâmica de LOG diário ou LOG pessoal (não sei como vou cham
 
 Espero que tenha ficado claro a grandeza superior dessa rotina digna de um adjetivo profundamente desqualificatório (para não escrever algo que cause indigestão aqui).
 
-As principais atividas estão aí. Agora vou dormir porque estou extremamente desapontado comigo mesmo.
+As principais atividades estão aí. Agora vou dormir porque estou extremamente desapontado comigo mesmo.
 
 # 2026-02-13th  Relógio
 
