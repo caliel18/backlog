@@ -138,3 +138,7 @@ Posso definir um certo fluxo de fúria como querer gritar ou arremessar coisas, 
 Chuva fina, ceu noturno.
 
 Fico a imaginar a quantidade quase infinita de coisas que eu poderia aprender. E que eu teria que acordar cedo para alcançar a quantidade de horas suficientes para render. Por outro lado me falta um caminho que não tenho pronto e que eu teria que escalar sozinho, cair e levantar. Tocar tamanha superfície de leve me parece, a primeira vista, não ser o suficiente para me transformar por completo. Por outro lado gosto da ideia porque sinto que estou juntando pequenas peças que podem se tornar um signicado inteiro recursivo dentro da minha cabeça.
+
+Me pergunto aonde vive e de onde vem tamanha força da fome em adquirir conhecimento para resolver meu futuro e de onde vem e onde vive a força de contraste que se traduz em um nível de preguiça degenerativa enraizada em um passado calcinante. De antemão me sinto em uma posição de hipermovimento mesmo que assim ela não se faça.
+
+Tenho que responder as perguntas do segundo paragrafo.
