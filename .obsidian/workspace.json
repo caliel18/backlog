@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "y/yt-dlp.md",
+                "file": "a/abnt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "yt-dlp"
+              "title": "abnt"
             }
           }
         ],
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "y/yt-dlp.md",
+                "file": "a/abnt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of yt-dlp"
+              "title": "Outline of abnt"
             }
           },
           {
@@ -245,12 +245,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "7b3f4a4b40712ec1",
   "lastOpenFiles": [
+    "a/Untitled.md",
+    "y/yt-dlp.md",
     "l/log-x3zpm.md",
     "x/x33log-star.md",
     "x/x33log-multiplier.md",
@@ -260,7 +261,6 @@
     "l/log-overburdened.md",
     "dailynote/2026-02-22nd.md",
     "a/abnt.md",
-    "a/Untitled.md",
     "a/tsete3.md",
     "dailynote/2026-02-15th.md",
     "dailynote/2026-02-21st.md",
@@ -276,7 +276,6 @@
     "dailynote/2026-02-10th.md",
     "dailynote/2026-02-9th.md",
     "a/agenda25.md",
-    "dailynote/2026-02-8th.md",
     "Pasted image 20250916235840.png",
     "Pasted image 20250916235805.png",
     "Pasted image 20250916235620.png",
