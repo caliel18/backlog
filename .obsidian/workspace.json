@@ -41,30 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "l/log-randomize.md",
+                "file": "d/diario-aleatorio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "log-randomize"
-            }
-          },
-          {
-            "id": "7b3f4a4b40712ec1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "e/english-quotes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "english-quotes"
+              "title": "diario-aleatorio"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "e/english-quotes.md",
+                "file": "d/diario-aleatorio.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of english-quotes"
+              "title": "Outline of diario-aleatorio"
             }
           },
           {
@@ -249,9 +235,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b3f4a4b40712ec1",
+  "active": "154caf11b905c0df",
   "lastOpenFiles": [
     "dailynote/2026-02-23rd.md",
+    "dailynote/2026-02-22nd.md",
+    "dailynote/2025-11-14th.md",
+    "dailynote/2025-11-12th.md",
+    "dailynote/2025-11-8th.md",
+    "dailynote/2025-11-7th.md",
+    "dailynote/2025-11-4th.md",
+    "dailynote/2025-11-2nd.md",
+    "dailynote/2025-10-31st.md",
     "e/english-quotes.md",
     "a/abnt.md",
     "a/Untitled.md",
@@ -263,20 +257,12 @@
     "x/x33log-hidden.md",
     "l/log-x3xp.md",
     "l/log-overburdened.md",
-    "dailynote/2026-02-22nd.md",
     "a/tsete3.md",
     "dailynote/2026-02-15th.md",
     "dailynote/2026-02-21st.md",
     "dailynote/2026-02-20th.md",
     "dailynote/2026-02-19th.md",
     "dailynote/2026-02-18th.md",
-    "dailynote/2026-02-17th.md",
-    "dailynote/2026-02-16th.md",
-    "dailynote/2026-02-14th.md",
-    "dailynote/2026-02-13th.md",
-    "dailynote/2026-02-12th.md",
-    "dailynote/2026-02-11th.md",
-    "dailynote/2026-02-10th.md",
     "Pasted image 20250916235840.png",
     "Pasted image 20250916235805.png",
     "Pasted image 20250916235620.png",
