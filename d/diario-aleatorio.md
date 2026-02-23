@@ -31,11 +31,11 @@ Alterar meus horarios de 4-14 para 23-6 é uma mudança que fez minha cabeça vi
 
 Posso dizer que hoje chorei. Chorei por não ser ninguem aos 30, chorei por nao ter conseguido terminar de organizar minhas notas, chorei por me sentir esgotado em me dedicar a minha vo e ao mesmo tempo ter que lidar com a carga toxica de ser taxado como desempregado direta ou indiretamente (pode ser ilusão e erro da minha audição em uma situação alheia) e no fundo é sim verdade.
 
-Chorei porque nao sei o que vai ser do meu futuro  em relação ao passo de que tenho que cuidar da minha vo.
+Chorei porque nao sei o que vai ser do meu futuro em relação ao passo de que tenho que cuidar da minha vo.
 
 É como se o pacifista dentro de mim evoluísse e engolisse as formas agressoras em um engolir seco. Posso ter me esquecido de escrever algo importante. talvez hj seja meu segundo dia pior do ano... Quero me recuperar, sair desse estado. Encontrar luz onde só me restam sombras.
 
-# 12/10/25 Domingo, Aguda distração, agonia mental e minha avo com o joelho quebrado
+# 12/10/25 2025-10-12th Domingo, Aguda distração, agonia mental e minha avo com o joelho quebrado
 
 Me vejo como um corpo retorcendo ao chão. Agonizando para não tomar um remédio, talvez por medo da dor da aplicação ou seu resultado, não sei explicar (aqui me refiro ao estado de estudo ativo versus conseguir um emprego na area de programação, já que estou desempregado aos 30 e ate hoje não atuei na área). As perturbações quanto ao cárater pouco frutífero das minhas escolhas durante a minha vida continuam. Apesar dos fantasmas me habitarem com afinco, me pergunto se eu estivesse ausente ou trabalhando, sera que eu conseguiria estar tão disposto fisica e mentalmente? A resposta é não. Desempregado consigo dar a atenção necessária a minha avó, já que estou aqui o tempo todo e que eventualmente ficamos sozinhos nos dois. 
 
