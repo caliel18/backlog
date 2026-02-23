@@ -38,3 +38,6 @@ Sobre o relogio. O relógio é, de modo ainda díficil de definir, um artefato q
 # 2026-02-16th
 
 Ensolarado
+
+Pontos que não posso esquecer de escrever:
+- Vídeo da senhora ()
