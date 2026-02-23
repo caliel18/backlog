@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-02-22nd.md",
+                "file": "l/log-weightless.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-22nd"
+              "title": "log-weightless"
             }
           }
         ],
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-02-22nd.md",
+                "file": "l/log-weightless.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-02-22nd"
+              "title": "Outline of log-weightless"
             }
           },
           {
@@ -245,17 +245,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "7b3f4a4b40712ec1",
   "lastOpenFiles": [
+    "dailynote/2026-02-22nd.md",
     "a/abnt.md",
     "a/Untitled.md",
     "a/tsete3.md",
-    "l/log-randomize.md",
+    "l/log-weightless.md",
     "dailynote/2026-02-15th.md",
-    "dailynote/2026-02-22nd.md",
     "dailynote/2026-02-21st.md",
     "dailynote/2026-02-20th.md",
     "dailynote/2026-02-19th.md",
