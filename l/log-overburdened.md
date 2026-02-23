@@ -132,3 +132,9 @@ Noite, nublado.
 
 Sinto um certo fluxo de fúria. Como se eu quisesse estilhaçar o mundo em pedaços. Se eu pudesse canalizar tal força para fazer barras, poderia eu, romper o limite do meu fraco físico pelo menos nesse começo tão miseravel?
 Posso definir um certo fluxo de fúria como querer gritar ou arremessar coisas, cerrar os punhos e bater nas coisas. Meu pai descontava a raiva na bebida e em palavas cortantes como laminas afiadas no esmeril do inferno, e no entanto, terminou com dois acidentes vasculares cerebrais e sem a fala. Perdeu sua autonomia e junto suas maiores forças de devastação e autonomia, a voz e a força. Se eu ligar um ponto ao outro vou perceber que descontar minha raiva ou indignação nos outros, posso ferir suas almas para sempre e no fim posso ter que suplicar seu perdão. Por outro lado, se eu conseguir canalizar tal furia em formato de energia para uma função específica em que eu precise de tamanha selvageria? Fazer barras ou correr por exemplo? No meu ponto de vista parece algo bem racional apesar de um pouco maluco. Eu so não sei muito bem como canalizar isso para atividades puramente intelectuais. Por lado posso estar até hoje, descontando no entretenimento e outras coisas para me desligar do mundo.
+
+## 2026-02-26th Fome I
+
+Chuva fina, ceu noturno.
+
+Fico a imaginar a quantidade quase infinita de coisas que eu poderia aprender. E que eu teria que acordar cedo para alcançar a quantidade de horas suficientes para render. Por outro lado me falta um caminho que não tenho pronto e que eu teria que escalar sozinho, cair e levantar. Tocar tamanha superfície de leve me parece, a primeira vista, não ser o suficiente para me transformar por completo. Por outro lado gosto da ideia porque sinto que estou juntando pequenas peças que podem se tornar um signicado inteiro recursivo dentro da minha cabeça.
