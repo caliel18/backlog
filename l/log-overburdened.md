@@ -45,10 +45,23 @@ Pontos que não posso esquecer de escrever:
 - Nível de perturbação alheio contínuo. Sim é como se metade de mim estivesse morto para então suportar tal fardo. Mas agora a vibração ainda que com teor ácido um pouco menor, ainda me impacta. Sei que é infantil e que fechar a porta seria necessário, mas não é isso que vai resolver o problema.
 - A importancia de alterar a natureza descritiva do diário para não ser um masturbador emocional, ou melhor, de um ponto de vista um pouco menos depreciativo, uma mola. Alterar também pode ser adicionar.
 - A resposta para a falta de direção, talvez, na melhor das hipoteses, esteja em um dos canais do youtube (kipper e canal do Marcio)
-- É chato e desgastante ficar reformando o repositorio mas pelo menos há um para se fazer isso. É chato
+- É chato e desgastante ficar reformando o repositorio mas pelo menos há um para se fazer isso. É chato e desgastante ter que remodelar e reescrever, reorganizar o repositório varias e varias vezes como se fosse o último bastião. Tendo em vista que o repositorio vai me acompanhar por toda a vida é justo que tamanho valor de reformulação exista por si só. É como se eu depositasse ali a esperança de que um segundo cérebro exista em seu pleno valor.
+- Como eu poderia escrever uma estrutura funcional de log para substituir um dailynote? (modelo atual). A estrutura modelo proposto no chatGPT seria o ideal? (há uma conversa sobre o template de um modelo de log de atividade que difere do modelo de dailynote)
+- Sobre o quarto pontinho. Seria toda contaminação proveniente de uma falta de empenho ou vínculo profissional que deixaria um espaço vago a ser preenchido por algo tão díficil e tóxico? Ou estaria eu levando tudo a sério demais? Alguém para dividir o peso? (não acho que seria a solução tercerizar parte do problema com custo com um terapeuta, mas me parece ok se um dia conseguir pagar).
+- 
+# 2026-02-19th
 
----
+Noite, céu limpo.
+
+Letras arredondadas, corações lançados, jardim com flores púrpuras da cor do vazio. Um pequeno passo. Encontrei uma comunidade específica no discord de um professor Matheus Leandro Ferreira. É pequeno em relação ao da rocketseat mas sinto que por outro lado é algo que simboliza que eu posso estar mudando minha vida. Ambiente de crescimento onde eu posso encontrar colaboradores-instrutores-amigos coração. No fundo é uma parte gritante de mim que suplica por sair da solidão e por ter uma luz guia por menor que seja. Sim eu senti necessidade de escrever sobre o assunto. Joguei tempo no lixo e deveria ter tomado tal decisão de entrar em tal comunidade e ter um luz-guia ainda na faculdade? Sim. O erro me custou uma cicatriz enorme e que me fez não ser ninguem aos 30? Sim.
+
+Eu sou minhas cicatrizes? Sim. O labirinto da reflexão que é feito com paredes de espelhos. Eu deveria escrever o nome da comunidade aqui e qual foi a origem do meu ímpeto quase sobrehumano que me fez pesquisar a comunidade e adicionar. Agora me faltam verbos, adjetivos, adverbios e disposição.
+
+P.S.: A origem do ímpeto foi o desespero de encontrar uma comunidade no discord que seja de java e que aceite em algum tom iniciantes.
+
 # 2026-02-23th
+
+Noite, nublado.
 
 Sinto um certo fluxo de fúria. Como se eu quisesse estilhaçar o mundo em pedaços. Se eu pudesse canalizar tal força para fazer barras, poderia eu, romper o limite do meu fraco físico pelo menos nesse começo tão miseravel?
 Posso definir um certo fluxo de fúria como querer gritar ou arremessar coisas, cerrar os punhos e bater nas coisas. Meu pai descontava a raiva na bebida e em palavas cortantes como laminas afiadas no esmeril do inferno, e no entanto, terminou com dois acidentes vasculares cerebrais e sem a fala. Perdeu sua autonomia e junto suas maiores forças de devastação e autonomia, a voz e a força. Se eu ligar um ponto ao outro vou perceber que descontar minha raiva ou indignação nos outros, posso ferir suas almas para sempre e no fim posso ter que suplicar seu perdão. Por outro lado, se eu conseguir canalizar tal furia em formato de energia para uma função específica em que eu precise de tamanha selvageria? Fazer barras ou correr por exemplo? No meu ponto de vista parece algo bem racional apesar de um pouco maluco. Eu so não sei muito bem como canalizar isso para atividades puramente intelectuais. Por lado posso estar até hoje, descontando no entretenimento e outras coisas para me desligar do mundo.
