@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "l/log-x3zpm.md",
+                "file": "l/log-overburdened.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "log-x3zpm"
+              "title": "log-overburdened"
             }
           }
         ],
@@ -113,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "l/log-x3zpm.md",
+                "file": "l/log-overburdened.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of log-x3zpm"
+              "title": "Outline of log-overburdened"
             }
           },
           {
@@ -238,6 +238,8 @@
   },
   "active": "154caf11b905c0df",
   "lastOpenFiles": [
+    "l/log-x3xp.md",
+    "l/log-x3zpm.md",
     "l/log-overburdened.md",
     "d/diario-aleatorio.md",
     "dailynote/2026-02-23rd.md",
@@ -253,12 +255,10 @@
     "a/abnt.md",
     "a/Untitled.md",
     "y/yt-dlp.md",
-    "l/log-x3zpm.md",
     "x/x33log-star.md",
     "x/x33log-multiplier.md",
     "x/x33log.md",
     "x/x33log-hidden.md",
-    "l/log-x3xp.md",
     "a/tsete3.md",
     "dailynote/2026-02-15th.md",
     "dailynote/2026-02-21st.md",
