@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "l/log-weightless.md",
+                "file": "l/log-overburdened.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "log-weightless"
+              "title": "log-overburdened"
             }
           }
         ],
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "l/log-weightless.md",
+                "file": "l/log-overburdened.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of log-weightless"
+              "title": "Outline of log-overburdened"
             }
           },
           {
@@ -255,7 +255,7 @@
     "a/abnt.md",
     "a/Untitled.md",
     "a/tsete3.md",
-    "l/log-weightless.md",
+    "l/log-overburdened.md",
     "dailynote/2026-02-15th.md",
     "dailynote/2026-02-21st.md",
     "dailynote/2026-02-20th.md",
