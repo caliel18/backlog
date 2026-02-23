@@ -35,7 +35,7 @@ Chorei porque nao sei o que vai ser do meu futuro em relação ao passo de que t
 
 É como se o pacifista dentro de mim evoluísse e engolisse as formas agressoras em um engolir seco. Posso ter me esquecido de escrever algo importante. talvez hj seja meu segundo dia pior do ano... Quero me recuperar, sair desse estado. Encontrar luz onde só me restam sombras.
 
-# 12/10/25 2025-10-12th Domingo, Aguda distração, agonia mental e minha avo com o joelho quebrado
+# 2025-10-12th Domingo, Aguda distração, agonia mental e minha avo com o joelho quebrado
 
 Me vejo como um corpo retorcendo ao chão. Agonizando para não tomar um remédio, talvez por medo da dor da aplicação ou seu resultado, não sei explicar (aqui me refiro ao estado de estudo ativo versus conseguir um emprego na area de programação, já que estou desempregado aos 30 e ate hoje não atuei na área). As perturbações quanto ao cárater pouco frutífero das minhas escolhas durante a minha vida continuam. Apesar dos fantasmas me habitarem com afinco, me pergunto se eu estivesse ausente ou trabalhando, sera que eu conseguiria estar tão disposto fisica e mentalmente? A resposta é não. Desempregado consigo dar a atenção necessária a minha avó, já que estou aqui o tempo todo e que eventualmente ficamos sozinhos nos dois. 
 
@@ -43,7 +43,7 @@ Parte de mim fica feliz mas a outra parte triste por não ter dinheiro e carro. 
 
 Hoje até que estou bem. Não tocaram em meu nome até então como um alvo e também não cobraram nada. Já que descansei no sabado vou tentar avançar em algo hoje no que tange em estudar java. Há aqui grandes vortices problemáticos graves que envolvem situações de saúde parentais, prefiro não tocar no assunto por hora. É estranho alternar entre terceira e primeira pessoa. Consigo escrever melhor assim. Espero que seja uma boa prática para me aquecer e direcionar a escrever o que realmente importa (no caso conseguir estudar e um emprego).
 
-# 20/10/25 Segunda, A culpa de não ter um carro aos 30
+# 2025-10-20th Segunda, A culpa de não ter um carro aos 30
 
 E no fim das contas um indíviduo (eu) de 30 anos de idade fui reduzido a um zero a esquerda por não ter um carro financiado em mil parcelas aos 30 anos de idade para carregar minha avó materna de 82 anos ja debilitada. Ao mesmo tempo que não tenho o que dizer também não sei o que pensar. Já passei daquela fase de me enfurecer até o topo e como um vulcão implodir por dentro. De certo modo já é um traço evolutivo pois me implodir em furia por dentro, ou por fora, tanto faz, não me traz nenhum avanço. Somente dor de cabeça, retrocesso, stress e um monte de outras coisas que não tem utilidade. O lado complexo do pacifista é perceber que no fim da linha os dois lados somente oferecem decomposição.
 
