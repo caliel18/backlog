@@ -53,12 +53,14 @@
             "id": "ad2b32e763f85863",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "dailynote/2026-03-1º.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.12.4"
+              "icon": "lucide-file",
+              "title": "2026-03-1º"
             }
           }
         ],
@@ -125,12 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "dailynote/2026-03-1º.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de 2026-03-1º"
             }
           },
           {
@@ -243,11 +246,13 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "ad2b32e763f85863",
   "lastOpenFiles": [
+    "dailynote/2026-03-1º.md",
     "dailynote/2026-02-28th.md",
     "dailynote/2026-02-28º.md",
     "dailynote/2026-02-26th.md",
@@ -273,7 +278,6 @@
     "x/x33log-star.md",
     "x/x33log-multiplier.md",
     "x/x33log.md",
-    "x/x33log-hidden.md",
     "Pasted image 20250916235840.png",
     "Pasted image 20250916235805.png",
     "Pasted image 20250916235620.png",
