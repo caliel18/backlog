@@ -7,7 +7,7 @@
 5. Aprender
 6. Ruído
 7. Exemplos
-8. Extra
+8. Drive
 9. Referência
 
 # 1. Ação início
@@ -33,7 +33,7 @@
 | 5. Aprender    | A maior resistência estava antes de começar; após iniciar, o processo foi executável.<br>30 minutos são suficientes para produzir algo funcional, mesmo incompleto.               |
 | 6. Ruído       | Houve ansiedade leve antes de começar.<br>Após ver o servidor rodando, houve sensação breve de alívio.                                                                            |
 
-# 8. Extra
+# 8. Drive
  
  🧱 Construção orientada a objetivo concreto. Construir algo funcional que te dê segurança real.
 
