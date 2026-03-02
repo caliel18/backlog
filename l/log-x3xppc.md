@@ -1,0 +1,5 @@
+# 2026-03-02nd Glandial
+
+O uso de bepantol se suspende aqui porque de alguma forma tem causado um quadro de dermatite na pele da glande por algum motivo específico (interação com o *precum* em abundância? talvez). O quadro resulta em varios pontinhos vermelhos elevados espalhos por toda a glande. O aspecto se torna então desagradevel a vista, cactuoso de certa forma. Os pontos retrocedem em 3 dias. Houve um quadro avançado com um destes pontos a apresentar elevação e estado branco, similar a espinha. O desuso de bepantol e aplicação de um creme ajudou na cicatrização.
+
+Por coincidência ou não, também houve uma lesão pequena mas incomoda na parte superior do anus. Seja por queimadura por ficar muito tempo em uma posição (sentar) ou por excesso de umidade devido a aplicação do bepantol, a especie de pequena lesão retrocedeu rapidamente apos a suspensão do uso. Hipoglos deveria ser testado no lugar como medida de profilaxia contra futuras lesões, se compreendidas como queimaduras.

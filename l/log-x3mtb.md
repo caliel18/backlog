@@ -13,7 +13,13 @@ O que eu já sabia que poderia acontecer foi certo. Eu chegando aos limites e pa
 
 # 2026-02-02nd 1 Arrepender
 
+Ainda que seja óbvio seria interessente clarificar tamanha semântica que, por muito, passar por minimização antes do início do ato.
+
 1. Lamentar ou ter pena por alguma coisa feita ou dita ou não feita ou não dita.
 2. Manifestar sentimento de tristeza ou descontentamento por algo
+3. Causar ou sentir aflição ou inquietação. = ANGUSTIAR, APOQUENTAR, ATORMENTAR, INQUIETAR, RALAR
+4. Que habitualmente sente ou mostra tristeza. = SOMBRIO, SORUMBÁTICO, TACITURNO ≠ ALEGRE, CONTENTE, FELIZ, FESTIVO, LEDO
 
-"lamentar", in Dicionário Priberam da Língua Portuguesa [em linha], 2008-2026, https://dicionario.priberam.org/lamentar.
+Não tenho certeza se a chave do controle final está por aqui, contudo, adianto que de forma majoritária, a eficácia flutua entre regular e alta a depender das condições. Até então é o melhor caminho de controle que encontrei até aqui. Funcionou na data de ontem e na data de hoje. A taxa de sucesso de aplicação diminui se o estímulo do ambiente for intenso. Poderia adicionar datas de sucesso de aplicação dentro da subseção.
+
+Sempre há uma tristeza em forma de aflição e desolação após o ato.
