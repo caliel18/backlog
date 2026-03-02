@@ -1,4 +1,4 @@
-🧱 Construção orientada a objetivo concreto.
+🧱 Construção orientada a objetivo concreto. Construir algo funcional que te dê segurança real.
 
 1. Ação início
 2. Expectativa
@@ -7,6 +7,8 @@
 5. Aprender
 6. Ruído
 7. Exemplos
+8. Extra
+9. Referência
 
 # 1. Ação início
 
@@ -31,4 +33,21 @@
 | 5. Aprender    | A maior resistência estava antes de começar; após iniciar, o processo foi executável.<br>30 minutos são suficientes para produzir algo funcional, mesmo incompleto.               |
 | 6. Ruído       | Houve ansiedade leve antes de começar.<br>Após ver o servidor rodando, houve sensação breve de alívio.                                                                            |
 
+# 8. Extra
+ 
+ 🧱 Construção orientada a objetivo concreto. Construir algo funcional que te dê segurança real.
 
+Você precisa:
+
+- Ter um portfólio sólido e enxuto
+
+- Saber explicar decisões técnicas
+
+- Conseguir resolver problemas comuns com segurança
+
+- Passar em entrevistas com clareza
+
+- Isso é diferente de “saber tudo”.
+
+
+# 9. Referência
