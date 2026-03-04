@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-03-3º.md",
+                "file": "a/teste2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-3º"
+              "title": "teste2"
             }
           }
         ],
@@ -113,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-03-3º.md",
+                "file": "a/teste2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2026-03-3º"
+              "title": "Sumário de teste2"
             }
           },
           {
@@ -237,8 +237,8 @@
   },
   "active": "154caf11b905c0df",
   "lastOpenFiles": [
-    "l/log-overburdened.md",
     "dailynote/2026-03-3º.md",
+    "l/log-overburdened.md",
     "l/log-x3mtb.md",
     "l/log-x3xp.md",
     "l/log-x3xppc.md",
