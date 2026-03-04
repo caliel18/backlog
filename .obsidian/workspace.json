@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a/teste2.md",
+                "file": "dailynote/2026-03-4º.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "teste2"
+              "title": "2026-03-4º"
             }
           }
         ],
@@ -113,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a/teste2.md",
+                "file": "dailynote/2026-03-4º.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de teste2"
+              "title": "Sumário de 2026-03-4º"
             }
           },
           {
@@ -232,11 +232,14 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "154caf11b905c0df",
   "lastOpenFiles": [
+    "a/teste2.md",
+    "dailynote/2026-03-4º.md",
     "dailynote/2026-03-3º.md",
     "l/log-overburdened.md",
     "l/log-x3mtb.md",
@@ -261,8 +264,6 @@
     "dailynote/2025-11-2nd.md",
     "dailynote/2025-10-31st.md",
     "e/english-quotes.md",
-    "a/abnt.md",
-    "a/Untitled.md",
     "Pasted image 20250916235840.png",
     "Pasted image 20250916235805.png",
     "Pasted image 20250916235620.png",
