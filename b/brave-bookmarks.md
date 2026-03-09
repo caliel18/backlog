@@ -4,6 +4,8 @@
 ```html
 <html>
 
+<a href="https://akitaonrails.com/">akita blog</a>
+
 <a href="https://css-tricks.com/">css Tricks</a>
 <a href="https://cssgradient.io/">css Gradient</a>
 <a href="https://centerofmyscreen.com/">css alinhar centro</a>

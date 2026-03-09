@@ -8,45 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85fd8e9cf49374dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "l/log-randomize.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "log-randomize"
-            }
-          },
-          {
-            "id": "4d27387572536ca3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
             "id": "154caf11b905c0df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a/Untitled.md",
+                "file": "b/brave-bookmarks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "brave-bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,13 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a/Untitled.md",
+                "file": "b/brave-bookmarks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Untitled"
+              "title": "Sumário de brave-bookmarks"
             }
           },
           {
@@ -234,6 +209,7 @@
   },
   "active": "154caf11b905c0df",
   "lastOpenFiles": [
+    "a/Untitled.md",
     "dailynote/2026-03-9º.md",
     "l/log-x3gskin.md",
     "dailynote/2026-03-8º.md",
@@ -259,7 +235,6 @@
     "dailynote/2026-02-23rd.md",
     "dailynote/2026-02-22nd.md",
     "dailynote/2025-11-14th.md",
-    "dailynote/2025-11-12th.md",
     "Pasted image 20250916235840.png",
     "Pasted image 20250916235805.png",
     "Pasted image 20250916235620.png",
