@@ -2,4 +2,4 @@
 
 Passei por inúmeros eventos de dermatite na pele da glande que eu não sei qual a explicação. A princípio pensei que fosse a aplicação de bepantol diária. Suspendi e os eventos de dermatite continuaram ainda que em menor escala. Não entendo como uma pomada para bebes poderia causar tal reação.
 Notei que após uma seção pesada de masturbação sem nenhum lubrificante as lesões aparecem. Vou tentar me segurar por alguns dias para testar a hipotese. Apliquei Nivea Milk densidade 5 hoje. Acho que é uma opção agressiva e talvez eu sinta um encomodo leve. Deveria então escolher tal hidratante nas seções para testar a hipotese. Acho que vou aguentar sem lavar. A parte da uretra me encomoda um pouco.
-Vou tentar não bater uma para que o quadro se reverta o máximo possível. Se o produto é dermatologicamente testado, não deve causar um estrago (o bepantol é mais confortável). Por praticidade e preço, o bepantol é caríssimo.
+Vou tentar não bater uma para que o quadro se reverta o máximo possível. Se o produto é dermatologicamente testado, não deve causar um estrago (o bepantol é mais confortável). Por praticidade e preço a opção nivea é superior, o bepantol é caríssimo.
