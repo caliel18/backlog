@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-03-10º.md",
+                "file": "l/log-x3mtb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-10º"
+              "title": "log-x3mtb"
             }
           }
         ]
@@ -84,13 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-03-10º.md",
+                "file": "l/log-x3mtb.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2026-03-10º"
+              "title": "Sumário de log-x3mtb"
             }
           },
           {
@@ -209,11 +209,11 @@
   },
   "active": "154caf11b905c0df",
   "lastOpenFiles": [
-    "b/brave-bookmarks.md",
+    "l/log-x3gskin.md",
     "dailynote/2026-03-10º.md",
+    "b/brave-bookmarks.md",
     "a/Untitled.md",
     "dailynote/2026-03-9º.md",
-    "l/log-x3gskin.md",
     "dailynote/2026-03-8º.md",
     "dailynote/2026-03-7º.md",
     "dailynote/2026-03-6º.md",
