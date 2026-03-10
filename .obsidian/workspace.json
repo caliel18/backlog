@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "b/brave-bookmarks.md",
+                "file": "dailynote/2026-03-10º.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "brave-bookmarks"
+              "title": "2026-03-10º"
             }
           }
         ]
@@ -84,13 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "b/brave-bookmarks.md",
+                "file": "dailynote/2026-03-10º.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de brave-bookmarks"
+              "title": "Sumário de 2026-03-10º"
             }
           },
           {
@@ -203,11 +203,14 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "154caf11b905c0df",
   "lastOpenFiles": [
+    "b/brave-bookmarks.md",
+    "dailynote/2026-03-10º.md",
     "a/Untitled.md",
     "dailynote/2026-03-9º.md",
     "l/log-x3gskin.md",
@@ -232,8 +235,6 @@
     "dailynote/2026-02-24th.md",
     "d/diario-aleatorio.md",
     "dailynote/2026-02-23rd.md",
-    "dailynote/2026-02-22nd.md",
-    "dailynote/2025-11-14th.md",
     "Pasted image 20250916235840.png",
     "Pasted image 20250916235805.png",
     "Pasted image 20250916235620.png",
