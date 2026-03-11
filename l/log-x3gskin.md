@@ -10,3 +10,7 @@ Por revisão de contexto. Sim a masturbação infelizmente foi a causadora das l
 A masturbação infelizmente por seguir o impulso base e passar por cima de qualquer lubrificação vai causar dano como punição. Eu gostaria que não fosse assim mas se eu já me acostumei assim e minha pele não suporta (sem a devida prepação) então é melhor tentar alterar o comportamento. Voltei a aplicar bepantol para observar se as manchas vão embora.
 
 Vou começar a alimentar o [log-x3mtb] para observar o avanço ou retrocesso das lesões em relação as sessões de masturbação. Já é um parametro sólido de saída.
+
+# 2026-03-11th Insistência
+
+Insistência em uma nova sessão de masturbação e reaplicação de bepantol. E sim, agora tenho pontos vermelhos que antes estavam completamente regredidos. Não consigo entender o que causa tamanha intolerancia. Não consegui segurar o impulso por completo. Não sei exatamente o que fazer, agora só posso esperar. Um novo jeito puxando de baixo pra cima sem fricção? Devo testar.
