@@ -13,4 +13,4 @@ Vou começar a alimentar o [log-x3mtb] para observar o avanço ou retrocesso das
 
 # 2026-03-11th Insistência
 
-Insistência em uma nova sessão de masturbação e reaplicação de bepantol. E sim, agora tenho pontos vermelhos que antes estavam completamente regredidos. Não consigo entender o que causa tamanha intolerancia. Não consegui segurar o impulso por completo. Não sei exatamente o que fazer, agora só posso esperar. Um novo jeito puxando de baixo pra cima sem fricção? Devo testar.
+Insistência em uma nova sessão de masturbação e reaplicação de Bepantol. Agora tenho pontos vermelhos que antes estavam completamente suprimidos. Não consigo entender o que causa tamanha intolerancia. Não consegui segurar o impulso por completo. Não sei exatamente o que fazer, agora só posso esperar. Um novo jeito puxando de baixo pra cima sem fricção? Devo testar. Só queria encontrar um dermaco suficientemente bom para melhorar a pele glandial.
