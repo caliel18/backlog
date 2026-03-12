@@ -16,3 +16,6 @@
 | 12              | Modelos de aplicação                                             |        |
 
 # Continuação das seções pendentes 6-12 (s2 60)
+
+Consegui completar seções que ontem pareciam díficeis de completar com texto claro, criativo e sem repetições. Ainda assim preciso de descanso suficiente para implementar um modelo de aplicação em markdown (uma das unidades de formatação de texto mais simples).
+# Modelos de aplicação (s3 60)
