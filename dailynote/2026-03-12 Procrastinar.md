@@ -101,7 +101,9 @@ Outro modo alternativo e direto, sem uso de apps seria desligar o celular ou ati
 
 ==das seções que faltam completar:==
 
-Seções de tempo ==(expandir seção)==
+# Seções de tempo
+
+A escala deve 
 Lembrete durante a seção ==(expandir seção)==
 Não mude de contexto ==(expandir seção)==
 Descanso ==(expandir seção)==
