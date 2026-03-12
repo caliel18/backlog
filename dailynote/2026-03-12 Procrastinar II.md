@@ -1,4 +1,4 @@
-# Expansão das seções pendentes
+# Expansão das seções pendentes (s1)
 
 | Numero da seção | Seção/subseção                                                   | Status |
 | --------------- | ---------------------------------------------------------------- | ------ |
