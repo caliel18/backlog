@@ -39,3 +39,10 @@ Sabonete a base de coco seria ok mas ainda tenho que observar a reação e anota
 | niveamilk5                                               |     |                   oleo de amendoas |
 |                                                          |     |             lubrificante (redlube) |
 |                                                          |     |                                    |
+
+Gatilhos para Dermatite (NÃO APLICAR/FAZER):
+- Masturbação a seco (dermatite de contato por fricção);
+- Bepantol, Niveamilk5, Sabão líquido jonhson&jonhson para bebes;
+(fonte: observação da reação da pele da minha glande)
+
+
