@@ -46,7 +46,9 @@ Vale ressaltar que as subtarefas tem um papel primordial em quebrar a tarefa mai
 
 ==expandir seção==
 
+## Perfeccionismo paralítico e o medo com vestes ego
 
+==expandir seção==
 # Bloqueadores de dispersão
 
 ==expandir seção==
@@ -54,10 +56,10 @@ Vale ressaltar que as subtarefas tem um papel primordial em quebrar a tarefa mai
 Incluir a ressalva do quão fácil é desativar a extensão. Contudo o desafio aqui não é abrir a extensão e a desativar manualmente com um clique. É sobre o contrário. É sobre não abrir a extensão e não desativar a extensão (exceto em cenários que não envolvem foco).
 ## Extensão de bloqueador para navegador *Stay Focused*
 
-Extensão *Stay Focused* é para bloquear sites que causem distração. Adicione os sites dispersores de foco de acordo com a necessidade de parada. Os endereços bloqueados por padrão são [Facebook](facebook.com), [Tiktok](tiktok.com), [Whatsapp](web.whatsapp.com), [X](x.com) e [Youtube](youtube.com). Voce pode adicionar outros sites, por exemplo, [Instagram](intagram.com), [Telegram](https://web.telegram.org).
+Extensão *Stay Focused* é para bloquear sites que causem distração. Adicione os sites dispersores de foco de acordo com a necessidade de parada. Os endereços bloqueados por padrão são [Facebook](facebook.com), [Tiktok](tiktok.com), [Whatsapp](web.whatsapp.com), [X](x.com) e [Youtube](youtube.com).Outros sites podem ser adicionados, por exemplo, [Instagram](intagram.com), [Telegram](https://web.telegram.org).
 ### Instalação da extensão no navegador Brave
 
-Seguem as orientações para instalação no navegador [Brave](https://brave.com/pt-br/). Se preferir pode consultar um guia aqui.
+Seguem as orientações para instalação no navegador [Brave](https://brave.com/pt-br/). Se preferir pode consultar um guia em vídeo [aqui](https://www.youtube.com/watch?v=TymgsBZcrKA).
 
 1. Clique no símbolo de quebra-cabeças no canto superior direito;
 2. Clique em `Gerenciar Extensões`;
