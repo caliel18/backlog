@@ -35,13 +35,27 @@ Reservar um dia por semana para organizar horários fixos obrigatórios que não
 
 # Plano semana tarefa com vinte
 
-Planejar 20 tarefas na semana. Cada tarefa deve ser única, em resumo, em uma linha, sem subtarefas. As subtarefas devem ser desdobradas dentro do bloco de ação quando forem objeto do trabalho intelectual. As subtarefas estão fora da contagem e funcionam à nível de pilha de execução de baixo pra cima (missões secundárias).
+Planejar 20 tarefas na semana. Cada tarefa deve ser única, em resumo, em uma linha, sem subtarefas. As subtarefas devem ser desdobradas dentro do bloco de ação quando forem objeto do trabalho intelectual. Adicionar a subtarefa se pré-determinada antes ou depois de relacionar a tarefa principal. As subtarefas estão fora da contagem e funcionam à nível de pilha de execução de baixo pra cima (missões secundárias).
 
 Por exemplo implementar um Produto Mínimo Viável (MVP, Minimum Viable Product) seria uma tarefa. Implementar uma tela de login seria uma das subtarefas para completar o MVP. Outros exemplos de tarefas seriam criar um vídeo para organizar rotina no youtube, vídeo sobre algoritmos base, vídeo sobre retenção de conhecimento. Qualquer grande tarefa que pode ser quebrada em subtarefas e que parece grande demais.
 
+Vale ressaltar que as subtarefas tem um papel primordial em quebrar a tarefa maior em tarefas menores. É o ponto chave. Sem quebrar a tarefa maior em tarefas menores o efeito de quebra da procrastinação se faz nulo por bloqueio do escritor, ou, bloqueio cognitivo. As substarefas podem ser desdobradas em subtarefas. Os desdobramentos em um, dois, três níveis ou mais melhoram a visão e aceitação sobre tudo o que deve ser processado. O conjunto das saídas é o reforço positivo que alimenta a estabilização do foco para resolver o próximo problema da subtarefa seguinte.
+
 # Extensão para navegador *Stay Focused*
 
-Extensão *Stay Focused* para bloquear sites que causem distração. Adicione os sites dispersores de foco de acordo com a necessidade de parada, por exemplo, [X](x.com), [instagram](https://www.instagram.com/), [facebook](), youtube.
+Extensão *Stay Focused* é para bloquear sites que causem distração. Adicione os sites dispersores de foco de acordo com a necessidade de parada, por exemplo, [X](x.com), [instagram](https://www.instagram.com/), [facebook](facebook.com), [Youtube](youtube.com).
+
+## Instalação Brave
+
+Seguem as orientações para instalação no navegador [Brave](https://brave.com/pt-br/). Se preferir pode consultar um guia aqui.
+
+1. Clique no símbolo de quebra-cabeças no canto superior direito;
+2. Clique em `Gerenciar Extensões`;
+3. Clique no link no texto central *"Encontre extensões no `Web Store`"*;
+4. Digite *Stay focus*;
+5. Na lista que segue, escolha a opção que apresente um círculo com um fundo cinza; (adicionar imagem)
+6. O nome da extensão é `focusmode -  Stay  Focused, Be Present`
+7. Clique em `Add to Chrome`;
 # Aplicativo para Smartphone *Friend Focus*
 # Referências
 ![Como eu parei de procrastinar](https://www.youtube.com/watch?v=bDdmfrLgLaw)
