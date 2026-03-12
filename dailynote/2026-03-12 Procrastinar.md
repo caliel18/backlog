@@ -56,7 +56,7 @@ Os gatilhos da procrastinação podem envolver o medo. Por exemplo, medo da tare
 
 Você também pode pensar nos seus medos e anotar em uma seção de rascunho durante a execução da tarefa. Assim pode encontrar subtarefas que apresentem testes que quando aplicados a origem do seu medo apresentem resultados qualitativos que vão transmitir segurança suficiente para completar a tarefa.
 
-## 5.2 O problema do trabalho intelectual
+## 5.2. O problema do trabalho intelectual
 
 O objetivo deste material é apresentar práticas para se ter mais foco. Trabalho intelectual é ler, digitar e interagir com telas. O problema do trabalho intelectual atualmente é, em contrapartida, ler, digitar e interagir com telas. 
 
@@ -99,16 +99,16 @@ Assim ao receber notificações de qualquer aplicativo elas não serão apresent
 
 Outro modo alternativo e direto, sem uso de apps seria desligar o celular ou ativar o modo avião e guardar o aparelho em outro comodo da casa ou fora do alcance visual. Quanto maior a distancia menor a ansiedade indireta.
 
-==das seções que faltam completar:==
-
-# Sessões de foco
+# 7. Sessões de foco
 
 Sessões de foco de 45 a 60 minutos com 15 minutos de intervalo são uma faixa de tempo tolerável. Cinco sessões seriam suficientes para não causar esgotamento. O conjunto 45-15-5 ou 60-15-5, ou seja, 45 minutos de foco, 15 minutos de descanso e cinco sessões apresenta equílibrio suficiente para iniciantes da prática.
 
-Se houver sobrecarga o sono ou a performance no dia seguinte vão se comprometer se o nível de exaustão for maior do que a qualidade do sono. Outro ponto crucial é o mecanismo de descanso
+Se houver sobrecarga o sono ou a performance no dia seguinte vão se comprometer se o nível de exaustão for maior do que a qualidade do sono. Outro ponto crucial é o mecanismo de descanso que, em resumo, exclui atividades que envolvam leitura, tela e digitação.
 
 
-Lembrete durante a seção ==(expandir seção)==
+# 8. Lembrete durante a seção 
+
+==(expandir seção)==
 Não mude de contexto ==(expandir seção)==
 Descanso ==(expandir seção)==
 Registrar o reforço positivo ==(expandir seção)==
