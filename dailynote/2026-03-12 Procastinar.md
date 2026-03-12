@@ -40,11 +40,10 @@ Planejar 20 tarefas na semana. Cada tarefa deve ser única, em resumo, em uma li
 Por exemplo implementar um Produto Mínimo Viável (MVP, Minimum Viable Product) seria uma tarefa. Implementar uma tela de login seria uma das subtarefas para completar o MVP. Outros exemplos de tarefas seriam criar um vídeo para organizar rotina no youtube, vídeo sobre algoritmos base, vídeo sobre retenção de conhecimento. Qualquer grande tarefa que pode ser quebrada em subtarefas e que parece grande demais.
 
 Vale ressaltar que as subtarefas tem um papel primordial em quebrar a tarefa maior em tarefas menores. É o ponto chave. Sem quebrar a tarefa maior em tarefas menores o efeito de quebra da procrastinação se faz nulo por bloqueio do escritor, ou, bloqueio cognitivo. As substarefas podem ser desdobradas em subtarefas. Os desdobramentos em um, dois, três níveis ou mais melhoram a visão e aceitação sobre tudo o que deve ser processado. O conjunto das saídas é o reforço positivo que alimenta a estabilização do foco para resolver o próximo problema da subtarefa seguinte.
-
 # Extensão para navegador *Stay Focused*
 
 Extensão *Stay Focused* é para bloquear sites que causem distração. Adicione os sites dispersores de foco de acordo com a necessidade de parada. Os endereços bloqueados por padrão são [Facebook](facebook.com), [Tiktok](tiktok.com), [Whatsapp](web.whatsapp.com), [X](x.com) e [Youtube](youtube.com). Voce pode adicionar outros sites, por exemplo, [Instagram](intagram.com), [Telegram](https://web.telegram.org).
-## Instalação Brave
+## Instalação da extensão no navegador Brave
 
 Seguem as orientações para instalação no navegador [Brave](https://brave.com/pt-br/). Se preferir pode consultar um guia aqui.
 
@@ -58,7 +57,12 @@ Seguem as orientações para instalação no navegador [Brave](https://brave.com
 8. Clique no símbolo de quebra-cabeças no canto superior direito;
 9. Clique sobre `focusmode` e clique sobre o ícone de rolagem horizontal para ativar;
 10. Na seção de intervenções o bloqueio instantaneo já é ativo por padrão;
+
 # Aplicativo para Smartphone *Friend Focus*
+
+Acesse a *playstore* e busque por *Focus Friend*. (expandir seção)
+
+#
 # Referências
 ![Como eu parei de procrastinar](https://www.youtube.com/watch?v=bDdmfrLgLaw)
 
