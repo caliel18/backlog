@@ -48,7 +48,7 @@ O bloqueio existe porque uma gama muito grande subtarefas desconhecidas, opçõe
 
 Tarefas simples como enviar um email ou revisar uma seção de um assunto podem gerar cargas cognitivas suportavéis e portanto conseguem ativar o foco e evitar a sobrecarga. Adicionar simplicidade a tarefas complexas em forma de subtarefas atenua a sobrecarga e reduz o objetivo a um fim alcançavel.
 
-Os mecanismos de pesquisas, vídeos, guias, inteligência artificial ou até perguntar para um humano (alguém do seu trabalho ou do meio próximo a você que conheça o tema melhor do que você) pode lhe ajudar a quebrar a tarefa em subtarefas o mais rápido possível. Perguntar, em especial, em ambientes corporativos é sempre bem vindo (caso contrário, seria uma bandeira vermelha).
+Os mecanismos de pesquisas, vídeos, guias, inteligência artificial ou até perguntar para um humano (alguém do seu trabalho ou do meio próximo a você que conheça o tema melhor do que você) pode lhe ajudar a quebrar a tarefa em subtarefas o mais rápido possível. Perguntar, em especial, em ambientes corporativos é sempre bem vindo (caso contrário, seria uma bandeira vermelha) e se caso não encontrou a resposta com outros meios é o caminho mais rápido e ágil.
 
 ## 5.1. Medo 
 
@@ -56,11 +56,21 @@ Os gatilhos da procrastinação podem envolver o medo. Por exemplo, medo da tare
 
 Você também pode pensar nos seus medos e anotar em uma seção de rascunho durante a execução da tarefa. Assim pode encontrar subtarefas que apresentem testes que quando aplicados a origem do seu medo apresentem resultados qualitativos que vão transmitir segurança suficiente para completar a tarefa.
 
+## 5.2 O problema do trabalho intelectual
+
+O objetivo deste material é apresentar práticas para se ter mais foco. Trabalho intelectual é ler, digitar e interagir com telas. O problema do trabalho intelectual atualmente é, em contrapartida, ler, digitar e interagir com telas. 
+
+As distrações também vão envolver ler, digitar e interagir com telas. Bloqueadores de dispersão apresentam um dos múltiplos caminhos para se abordar o problema em duas telas distintas. A tela do computador e a tela do celular. O intuito é bloquear seu uso de uma forma simpática, tenaz e construtiva (não punitiva e invasiva).
+
+Durante a fase de resfriamento ou descanso, ler, digitar e interagir com telas se tornam formas de dispersão com sobrecarga cognitiva negativa que vão contra a definição de descanso e impactam a performance da próxima tarefa ou subtarefa, tendo em vista que, se houve a interação com telas durante o descanso, ainda que seja com entretenimento, os estímulos continuam a causar algum tipo de carga cognitiva mesmo que em contextos diferentes. A seção 10. Descanso contém informações específicas sobre o tema.
 # 6. Bloqueadores de dispersão
 
-==expandir seção==
+A função dos bloqueadores de dispersão é evitar a sobrecarga cognitiva de dispersão durante o fase de foco e a fase de descanso pós sessão de foco. Os bloqueadores propostos são de fácil ativação e desativação. É importante ressaltar que os bloqueadores não devem ser desafios a serem superados e não devem ser vistos como o último bastião impenetrável.
 
-Incluir a ressalva do quão fácil é desativar a extensão. Contudo o desafio aqui não é abrir a extensão e a desativar manualmente com um clique. É sobre o contrário. É sobre não abrir a extensão e não desativar a extensão (exceto em cenários que não envolvem foco).
+O desafio aqui não é abrir a extensão e a desativar manualmente com um clique. É sobre o contrário. É sobre não abrir a extensão e não desativar a extensão (exceto em cenários que não envolvem foco). E se a dispersão acontecer agir em retrocesso com o aviso.
+
+Existem outros métodos de bloqueadores com maior rigidez que vão além dos de fácil gerenciar presente no guia. Se a procastinação persistir você pode prometer a si mesmo tentar a tarefa por cinco minutos. Se mesmo assim a iniciativa de desativar os bloqueadores persitir e a dispersão em forma de procrastinação prevalecer é possível acessar [materiais específicos](link para material de psicologia sobre procrastinação) para entender melhor a situação.
+
 ## 6.1. Extensão de bloqueador para navegador *Stay Focused*
 
 Extensão *Stay Focused* é para bloquear sites que causem distração. Adicione os sites dispersores de foco de acordo com a necessidade de parada. Os endereços bloqueados por padrão são [Facebook](facebook.com), [Tiktok](tiktok.com), [Whatsapp](web.whatsapp.com), [X](x.com) e [Youtube](youtube.com).Outros sites podem ser adicionados, por exemplo, [Instagram](intagram.com), [Telegram](https://web.telegram.org).
