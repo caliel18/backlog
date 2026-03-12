@@ -99,9 +99,8 @@ Assim ao receber notificações de qualquer aplicativo elas não serão apresent
 
 Outro modo alternativo e direto, sem uso de apps seria desligar o celular ou ativar o modo avião e guardar o aparelho em outro comodo da casa ou fora do alcance visual. Quanto maior a distancia menor a ansiedade indireta.
 
-6.3. Alternativa modo avião para celular
+==das seções que faltam completar:==
 
-das seções que faltam completar:
 Seções de tempo ==(expandir seção)==
 Lembrete durante a seção ==(expandir seção)==
 Não mude de contexto ==(expandir seção)==

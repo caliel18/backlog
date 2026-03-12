@@ -104,13 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-03-12 Procrastinar II.md",
+                "file": "dailynote/2026-03-12 Procrastinar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2026-03-12 Procrastinar II"
+              "title": "Sumário de 2026-03-12 Procrastinar"
             }
           },
           {
@@ -227,10 +227,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d0d01d79d92378c4",
+  "active": "154caf11b905c0df",
   "lastOpenFiles": [
-    "dailynote/2026-03-12 Procrastinar.md",
     "dailynote/2026-03-12 Procrastinar II.md",
+    "dailynote/2026-03-12 Procrastinar.md",
     "l/log-x3gskin.md",
     "f/frases.md",
     "dailynote/2026-03-11º.md",
