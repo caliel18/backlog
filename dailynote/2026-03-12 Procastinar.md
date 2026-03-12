@@ -26,9 +26,10 @@ Antes de iniciar qualquer trabalho independente de sua natureza o foco deve se f
 
 Os materiais devem desconstruir barreiras (alternância de janelas) e oferecer um meio ágil de registro de informações, sem cliques, de forma analógica, lembrete do agora para evitar futuras distrações e realinhar seu foco no trabalho intelectual para completar a tarefa/subtarefa. 
 
-- caderno ou papel avulso (ex.:chamex) + caneta
-- calendário (qualquer calendário que possa escrever blocos de atividades, por exemplo, google calendar, obsidian, notion, excel)
-
+- caderno ou papel avulso (ex.:chamex) + caneta;
+- calendário (qualquer calendário que possa escrever blocos de atividades, por exemplo, google calendar, obsidian, notion, excel);
+- navegador web;
+- celular (opcional);
 # Plano semana tarefa fixa
 
 Reservar um dia por semana para organizar horários fixos obrigatórios que não vão se alterar (adicione um despertador se necessário). Os horários podem contemplar reuniões, consultas, compras, eventos diversos, blocos de ação (sprints) por exemplo.
@@ -41,7 +42,12 @@ Por exemplo implementar um Produto Mínimo Viável (MVP, Minimum Viable Product)
 
 Vale ressaltar que as subtarefas tem um papel primordial em quebrar a tarefa maior em tarefas menores. É o ponto chave. Sem quebrar a tarefa maior em tarefas menores o efeito de quebra da procrastinação se faz nulo por bloqueio do escritor, ou, bloqueio cognitivo. As substarefas podem ser desdobradas em subtarefas. Os desdobramentos em um, dois, três níveis ou mais melhoram a visão e aceitação sobre tudo o que deve ser processado. O conjunto das saídas é o reforço positivo que alimenta a estabilização do foco para resolver o próximo problema da subtarefa seguinte.
 
-# Bloqueadores
+# O Bloqueio cognitivo (*writer's block*)
+
+==expandir seção==
+
+
+# Bloqueadores de dispersão
 
 ==expandir seção==
 
@@ -67,8 +73,9 @@ Seguem as orientações para instalação no navegador [Brave](https://brave.com
 ## Aplicativo bloqueador para celular *Friend Focus*
 
 Acesse a *playstore* e busque por *Focus Friend*. ==(expandir seção)==
+## Modo avião para celular com o wi-fi desligado
 
-#
+==(expandir seção)==
 # Referências
 ![Como eu parei de procrastinar](https://www.youtube.com/watch?v=bDdmfrLgLaw)
 
