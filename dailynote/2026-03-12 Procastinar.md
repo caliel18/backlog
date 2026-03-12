@@ -43,8 +43,7 @@ Vale ressaltar que as subtarefas tem um papel primordial em quebrar a tarefa mai
 
 # Extensão para navegador *Stay Focused*
 
-Extensão *Stay Focused* é para bloquear sites que causem distração. Adicione os sites dispersores de foco de acordo com a necessidade de parada, por exemplo, [X](x.com), [instagram](https://www.instagram.com/), [facebook](facebook.com), [Youtube](youtube.com).
-
+Extensão *Stay Focused* é para bloquear sites que causem distração. Adicione os sites dispersores de foco de acordo com a necessidade de parada. Os endereços bloqueados por padrão são [Facebook](facebook.com), [Tiktok](tiktok.com), [Whatsapp](web.whatsapp.com), [X](x.com) e [Youtube](youtube.com). Voce pode adicionar outros sites, por exemplo, [Instagram](intagram.com), [Telegram](https://web.telegram.org).
 ## Instalação Brave
 
 Seguem as orientações para instalação no navegador [Brave](https://brave.com/pt-br/). Se preferir pode consultar um guia aqui.
@@ -56,6 +55,9 @@ Seguem as orientações para instalação no navegador [Brave](https://brave.com
 5. Na lista que segue, escolha a opção que apresente um círculo com um fundo cinza; (adicionar imagem)
 6. O nome da extensão é `focusmode -  Stay  Focused, Be Present`
 7. Clique em `Add to Chrome`;
+8. Clique no símbolo de quebra-cabeças no canto superior direito;
+9. Clique sobre `focusmode` e clique sobre o ícone de rolagem horizontal para ativar;
+10. Na seção de intervenções o bloqueio instantaneo já é ativo por padrão;
 # Aplicativo para Smartphone *Friend Focus*
 # Referências
 ![Como eu parei de procrastinar](https://www.youtube.com/watch?v=bDdmfrLgLaw)
