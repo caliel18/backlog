@@ -123,6 +123,8 @@ A alternancia entre contextos gera cansaço mental superior a sessões de foco. 
 
 O resultado miraculoso do multifoco em contextos diferentes se torna então o pesadelo da produtividade. Se vários contextos diferentes se acumulam e se alternam em uma mesma janela de tempo a produção será menor e o cansaço maior em escalas evolucionárias tão ruins que vão tocar a procrastinação e invalidar a natureza das práticas até aqui.
 
+Por exemplo, começar a escrever uma linha de código e enviar uma sequência de comandos de entrada para a inteligencia artificial gerar um resultado de saída. Enquanto o processamento acontece o acesso a um dos sites bloqueados acontece. A máxima aqui é não mudar de contexto durante a sessão de foco.
+
 # 10. Descanso
 
 
