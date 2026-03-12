@@ -84,7 +84,9 @@ Não mude de contexto ==(expandir seção)==
 Descanso ==(expandir seção)==
 Registrar o reforço positivo ==(expandir seção)==
 
-Modelo de aplicação ==(expandir seção)==
+Modelos de aplicação ==(expandir seção)==
+markdown
+Excel
 Calendário analogico markdown ==(expandir seção)==
 dailynote ==(expandir seção)==
 # Referências
