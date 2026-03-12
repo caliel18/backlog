@@ -91,7 +91,11 @@ Seguem as orientações para instalação no navegador [Brave](https://brave.com
 
 ## 6.2. Aplicativo bloqueador para celular *Friend Focus* e o modo avião
 
-Acesse a *playstore* e busque por *Focus Friend*. ==(expandir seção)==
+Acesse a *playstore* e busque por *Focus Friend* (em português, amigo foco). O aplicativo é um jogo onde voce controla um feijãozinho. Existe um botão *Focus* (foco) onde o personagem começa a tricotar até que o tempo que voce definiu se acabe. Você pode trocar o resultado do trabalho por decorações na casa. O jogo é autoexplicativo e está em inglês.
+
+O objetivo do jogo é travar a atividade do celular em um estado profundo onde a unica notificação e atividade presente é o personagem em seu trabalho. 
+
+Outro modo alternativo e direto seria desligar o celular ou ativar o modo avião e guardar o aparelho em outro comodo da casa. ==(expandir seção)==
 
 6.3. Alternativa modo avião para celular
 
