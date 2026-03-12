@@ -48,13 +48,14 @@ O bloqueio existe porque uma gama muito grande subtarefas desconhecidas, opçõe
 
 Tarefas simples como enviar um email ou revisar uma seção de um assunto podem gerar cargas cognitivas suportavéis e portanto conseguem ativar o foco e evitar a sobrecarga. Adicionar simplicidade a tarefas complexas em forma de subtarefas atenua a sobrecarga e reduz o objetivo a um fim alcançavel.
 
-
-
-
+Os mecanismos de pesquisas, vídeos, guias, inteligência artificial ou até perguntar para um humano (alguém do seu trabalho ou do meio próximo a você que conheça o tema melhor do que você) pode lhe ajudar a quebrar a tarefa em subtarefas o mais rápido possível. Perguntar, em especial, em ambientes corporativos é sempre bem vindo (caso contrário, seria uma bandeira vermelha).
 
 ## 5.1. Medo 
 
-==expandir seção==
+Os gatilhos da procrastinação podem envolver o medo. Por exemplo, medo da tarefa não poder ser completa e apresentar um resultado equívoco/errado; medo dos colegas ou de quem acessar o resultado da tarefa julgar com insuficiente, pobre ou fraca; medo de não conseguir encontrar um resultado por falta de conteúdo ou esforço intelectual para resolver o problema da tarefa; medo de errar com consequências de grande impacto na linha de produção ou execução do projeto.
+
+Você também pode pensar nos seus medos e anotar em uma seção de rascunho durante a execução da tarefa. Assim pode encontrar subtarefas que apresentem testes que quando aplicados a origem do seu medo apresentem resultados qualitativos que vão transmitir segurança suficiente para completar a tarefa.
+
 # 6. Bloqueadores de dispersão
 
 ==expandir seção==
