@@ -31,15 +31,6 @@ Sabonete a base de coco seria ok mas ainda tenho que observar a reação e anota
 
 # 2026-03-12th REATIVOS
 
-
-| Gatilho para Dermatite (negativo)                        |     | Pele Glandial receptiva (positivo) |
-| -------------------------------------------------------- | --- | ---------------------------------: |
-| Masturbação a seco<br>(dermatite de contato por fricção) |     |          Agua corrente (sem sabão) |
-| Bepantol                                                 |     |                       oleo de coco |
-| niveamilk5                                               |     |                   oleo de amendoas |
-|                                                          |     |             lubrificante (redlube) |
-|                                                          |     |                                    |
-
 Gatilhos para Dermatite (NÃO APLICAR/FAZER):
 - Masturbação a seco (dermatite de contato por fricção);
 - Bepantol, Niveamilk5, Sabão líquido jonhson&jonhson para bebes;
@@ -63,4 +54,4 @@ Todos os pontos agora tem um pequeno pontinho branco no meio bem pequeno, como s
 Eu posso descrever o cheiro como um pouco acentuado porem leve. Sem notas de peixe. 
 A pele está um claro rosa e uniforme diferente de ontem. Apesar dos multiplos pontinhos estou bem satisfeito com a recuperação. Amanhã alguns pontinhos já devem desaparecer por completo.
 
-Sobre o cheiro significa que a presença da microbiota está voltando ao que era antes. Com multiplas papulas o cheiro também há de ser um pouco acentuado. Ainda assim, é um cheiro de pau normal, sem excedentes para notas com cheiro ruim (de queijo ou peixe)
+Sobre o cheiro significa que a presença da microbiota está voltando ao que era antes. Com multiplas papulas o cheiro também há de ser um pouco acentuado. Ainda assim, é um cheiro de pau normal, sem excedentes para notas com cheiro ruim (de queijo ou peixe).

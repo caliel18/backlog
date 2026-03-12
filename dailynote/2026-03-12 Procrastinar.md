@@ -95,7 +95,7 @@ Acesse a *playstore* e busque por *Focus Friend* (em português, amigo foco). O 
 
 O objetivo do jogo é travar a atividade do celular em um estado profundo onde a unica notificação e atividade presente é o personagem em seu trabalho. 
 
-Outro modo alternativo e direto seria desligar o celular ou ativar o modo avião e guardar o aparelho em outro comodo da casa. ==(expandir seção)==
+Outro modo alternativo e direto seria desligar o celular ou ativar o modo avião e guardar o aparelho em outro comodo da casa ou fora do alcance visual (preferencialmente, para evitar ansiedade indireta).
 
 6.3. Alternativa modo avião para celular
 
