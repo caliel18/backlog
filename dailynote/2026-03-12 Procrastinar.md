@@ -93,9 +93,11 @@ Seguem as orientações para instalação no navegador [Brave](https://brave.com
 
 Acesse a *playstore* e busque por *Focus Friend* (em português, amigo foco). O aplicativo é um jogo onde voce controla um feijãozinho. Existe um botão *Focus* (foco) onde o personagem começa a tricotar até que o tempo que voce definiu se acabe. Você pode trocar o resultado do trabalho por decorações na casa. O jogo é autoexplicativo e está em inglês.
 
-O objetivo do jogo é travar a atividade do celular em um estado profundo onde a unica notificação e atividade presente é o personagem em seu trabalho. 
+O objetivo do jogo é pressionar o botão *focus* e a atividade do celular entra em um estado profundo onde a unica notificação e atividade presente é o personagem em seu trabalho até terminar o tempo programado. 
 
-Outro modo alternativo e direto seria desligar o celular ou ativar o modo avião e guardar o aparelho em outro comodo da casa ou fora do alcance visual (preferencialmente, para evitar ansiedade indireta).
+Assim ao receber notificações de qualquer aplicativo elas não serão apresentadas em tempo. Ao visualizar o trabalho do pequeno feijão uma espécie de lembrete mental seria apresentado em forma de "voce deveria estar focado no trabalho agora". Se a inibição do uso for o suficiente para que usuário não feche o aplicativo enquanto o tempo de foco durar, então a prática funcionou para você.
+
+Outro modo alternativo e direto, sem uso de apps seria desligar o celular ou ativar o modo avião e guardar o aparelho em outro comodo da casa ou fora do alcance visual (preferencialmente em outro comodo para evitar ansiedade indireta).
 
 6.3. Alternativa modo avião para celular
 
