@@ -24,7 +24,7 @@ Antes de iniciar qualquer trabalho independente de sua natureza o foco deve se f
 
 # Material
 
-Os materiais devem desconstruir barreiras e oferecer um meio ágil de registro de informações, sem cliques, de forma analógica, lembrete do agora para evitar futuras distrações e realinhar seu foco no trabalho intelectual para completar a tarefa/subtarefa. 
+Os materiais devem desconstruir barreiras (alternância de janelas) e oferecer um meio ágil de registro de informações, sem cliques, de forma analógica, lembrete do agora para evitar futuras distrações e realinhar seu foco no trabalho intelectual para completar a tarefa/subtarefa. 
 
 - caderno ou papel avulso (ex.:chamex) + caneta
 - calendário (qualquer calendário que possa escrever blocos de atividades, por exemplo, google calendar, obsidian, notion, excel)
