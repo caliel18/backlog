@@ -97,7 +97,7 @@ O objetivo do jogo é pressionar o botão *focus* e a atividade do celular entra
 
 Assim ao receber notificações de qualquer aplicativo elas não serão apresentadas em tempo. Ao visualizar o trabalho do pequeno feijão uma espécie de lembrete mental seria apresentado em forma de "voce deveria estar focado no trabalho agora". Se a inibição do uso for o suficiente para que usuário não feche o aplicativo enquanto o tempo de foco durar, então a prática funcionou para você.
 
-Outro modo alternativo e direto, sem uso de apps seria desligar o celular ou ativar o modo avião e guardar o aparelho em outro comodo da casa ou fora do alcance visual (preferencialmente em outro comodo para evitar ansiedade indireta).
+Outro modo alternativo e direto, sem uso de apps seria desligar o celular ou ativar o modo avião e guardar o aparelho em outro comodo da casa ou fora do alcance visual. Quanto maior a distancia menor a ansiedade indireta.
 
 6.3. Alternativa modo avião para celular
 
