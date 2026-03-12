@@ -127,10 +127,20 @@ Por exemplo, começar a escrever uma linha de código e enviar uma sequência de
 
 # 10. Descanso
 
+Sem tela, sem leitura, sem digitação. São as três regras para evitar que no período de descanso voce sobrecarregue sua cognição. Sair de uma sessão de foco onde há digitação, leitura, interpretação de tela para então repetir durante o descanso resulta em uma escala sem interrupções para o esgotamento de todas as reservas de fadiga disponíveis.
 
+Exemplos de atividades reguladoras e de recuperação do nível de fadiga são beber água, alimentação, caminhar, compras fora de casa, dirigir, cozinhar, dormir, correr, exercícios físicos, alongamento.
 
+Se houver urgência em responder mensagens ou notificações específicas o ideal seria reserver um bloco menor e com sua conclusão seguir para o descanso. 
 
-Registrar o reforço positivo ==(expandir seção)==
+# 11. Registrar o reforço positivo
+
+Registrar o esforço positivo é o ponto criativo para reconhecer que sua carreira profissional ou de aprendizagem melhorou. Se a atividade se repetiu várias vezes e não há nenhuma novidade seria interessante tentar encontrar um detalhe que seja diferente. Se a repetição for persistente e incomodar talvez seja o indício de procurar um novo emprego.
+
+Segue abaixo um exemplo de reforço positivo de carreira de aprendizagem. É importante escrever em primeira pessoa e ser sincero. Assim pode ler no futuro e evitar exaustão ou esgotamento mental profundo (*burn out*).
+
+> Em meio a um turbilhão de incertezas e incapacidades consigo perceber que pode existir uma fagulha que brilha aos meus olhos. O reforço positivo é que consegui encontrar uma saída da procrastinação. Agora tenho que colocar em prática com honestidade e sem desdem. Estou feliz com a aprendizagem das práticas e quero praticar da melhor forma que eu encontrar.
+
 
 Modelos de aplicação ==(expandir seção)==
 markdown
