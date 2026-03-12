@@ -42,7 +42,15 @@ Vale ressaltar que as subtarefas tem um papel primordial em quebrar a tarefa mai
 
 # 5. O Bloqueio cognitivo (*writer's block*)
 
-==expandir seção==
+Com frequência é possível notar que a tarefa é grande demais, por um momento, inquebrável em partes menores. Sem saber por onde começar podemos parar, perder a atenção por aí, olhar para as ferramentas sem nada fazer, sem ação, em paralisia. Logo a máxima "Não sei por onde começar. Não sei o que fazer."
+
+O bloqueio existe porque uma gama muito grande subtarefas desconhecidas, opções sem definição, geram sobrecarga cognitiva suficiente para ativar um escape (procrastinação). A carga cognitiva alta impede o início da tarefa.
+
+Tarefas simples como enviar um email ou revisar uma seção de um assunto podem gerar cargas cognitivas suportavéis e portanto conseguem ativar o foco e evitar a sobrecarga. Adicionar simplicidade a tarefas complexas em forma de subtarefas atenua a sobrecarga e reduz o objetivo a um fim alcançavel.
+
+
+
+
 
 ## 5.1. Medo 
 
