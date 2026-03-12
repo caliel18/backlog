@@ -37,7 +37,7 @@ Reservar um dia por semana para organizar horários fixos obrigatórios que não
 
 Planejar 20 tarefas na semana. Cada tarefa deve ser única, em resumo, em uma linha, sem subtarefas. As subtarefas devem ser desdobradas dentro do bloco de ação quando forem objeto do trabalho intelectual. As subtarefas estão fora da contagem e funcionam à nível de pilha de execução de baixo pra cima (missões secundárias).
 
-Por exemplo implementar um Produto Mínimo Viável (MVP Minimum Viable Product) seria uma tarefa. Implementar uma tela de login seria uma das subtarefas para completar o MVP. Outros exemplos de tarefas grandes seriam
+Por exemplo implementar um Produto Mínimo Viável (MVP Minimum Viable Product) seria uma tarefa. Implementar uma tela de login seria uma das subtarefas para completar o MVP. Outros exemplos de tarefas seriam criar um vídeo para organizar rotina no youtube, vídeo sobre algoritmos base, vídeo sobre retenção de conhecimento. Qualquer grande tarefa que pode ser quebrada em subtarefas e que parece grande demais
 # Referências
 ![Como eu parei de procastinar](https://www.youtube.com/watch?v=bDdmfrLgLaw)
 
