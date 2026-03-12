@@ -2,12 +2,13 @@ Incluir quando o conteúdo foi revisado e atualizado por último.
 
 # Lista de Siglas
 
-| Sigla | Defin                  |
-| ----- | ---------------------- |
-| MVP   | Minimum Viable Product |
+Apresentação de todas as siglas em inglês e em português do Brasil. A tradução livre para o português pode comportar, em síntese, a definição semântica da sigla, contudo, de acordo com a apresentção do contexto em que se inseriu, a definição semântica pode variar em extensão ou forma.
 
+| Sigla |         Inglês         |  Português (Brasil)   |
+| :---: | :--------------------: | :-------------------: |
+|  MVP  | Minimum Viable Product | Produto Mínimo Viável |
 
-
+# Sumário
 # Introdução
 
 Ao assistir o vídeo [Como eu parei de procastinar](https://www.youtube.com/watch?v=bDdmfrLgLaw) encontrei um conjunto de sugestão de práticas que abordam a dissolução do problema da procastinação. Cada prática tem um princípio distinto para cumprir um objetivo sendo uma camada de dissolução do problema. As práticas são complementares e abordam diferentes camadas e gatilhos do comportamento. Apesar de apontar um problema que não deveria pertencer a maturidade adulta o problema acomete todas as faixas etárias em maior ou menor grau e pode se tornar cronico ao ponto de atrasar uma vida inteira de conquistas e forçar a troca do mérito por uma grande bola de lama. 
