@@ -51,9 +51,10 @@ Tecido glandial receptivo (POSITIVO):
 - lubrificante (redlube pandatoys);
 - sabonetes, segue a tabela dos testados:
 
-| Nivea MILK |     |
-| ---------- | --- |
-|            |     |
+| Nivea MILK | na fila |
+| ---------- | ------- |
+| Lux        | na fila |
+| phebo      | na fila |
 
 # 2026-03-12th Recuperação III
 
