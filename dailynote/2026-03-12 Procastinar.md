@@ -2,6 +2,12 @@ Incluir quando o conteúdo foi revisado e atualizado por último.
 
 # Lista de Siglas
 
+| Sigla | Defin                  |
+| ----- | ---------------------- |
+| MVP   | Minimum Viable Product |
+
+
+
 # Introdução
 
 Ao assistir o vídeo [Como eu parei de procastinar](https://www.youtube.com/watch?v=bDdmfrLgLaw) encontrei um conjunto de sugestão de práticas que abordam a dissolução do problema da procastinação. Cada prática tem um princípio distinto para cumprir um objetivo sendo uma camada de dissolução do problema. As práticas são complementares e abordam diferentes camadas e gatilhos do comportamento. Apesar de apontar um problema que não deveria pertencer a maturidade adulta o problema acomete todas as faixas etárias em maior ou menor grau e pode se tornar cronico ao ponto de atrasar uma vida inteira de conquistas e forçar a troca do mérito por uma grande bola de lama. 
@@ -25,7 +31,7 @@ Reservar um dia por semana para organizar horários fixos obrigatórios que não
 
 Planejar 20 tarefas na semana. Cada tarefa deve ser única, em resumo, em uma linha, sem subtarefas. As subtarefas devem ser desdobradas dentro do bloco de ação quando forem objeto do trabalho intelectual. As subtarefas estão fora da contagem e funcionam à nível de pilha de execução de baixo pra cima (missões secundárias).
 
-Por exemplo implementar um Minimum Viable Product (MVP)
+Por exemplo implementar um Produto Mínimo Viável (MVP Minimum Viable Product).
 # Referências
 ![Como eu parei de procastinar](https://www.youtube.com/watch?v=bDdmfrLgLaw)
 
