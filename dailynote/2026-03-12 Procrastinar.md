@@ -1,13 +1,10 @@
 Incluir quando o conteúdo foi revisado e atualizado por último.
-# Lista de Siglas
-
-Apresentação de todas as siglas em inglês e em português do Brasil. A tradução livre para o português pode comportar, em síntese, a definição semântica da sigla, contudo, de acordo com a apresentação do contexto em que se inseriu, a definição semântica pode variar em extensão ou forma.
-
-| Sigla |         Inglês         |  Português (Brasil)   |
-| :---: | :--------------------: | :-------------------: |
-|  MVP  | Minimum Viable Product | Produto Mínimo Viável |
-
 # Sumário
+
+[link]
+[link]
+[link]
+fundo cinza
 # 1. Introdução
 
 Ao assistir o vídeo [Como eu parei de procrastinar](https://www.youtube.com/watch?v=bDdmfrLgLaw) encontrei um conjunto de sugestões de práticas que abordam a dissolução do problema da procrastinação. Cada prática tem um princípio distinto para cumprir um objetivo sendo uma camada de dissolução do problema. As práticas são complementares e abordam diferentes camadas e gatilhos do comportamento. Apesar de apontar um problema que não deveria pertencer a maturidade adulta o problema acomete todas as faixas etárias em maior ou menor grau e pode se tornar cronico ao ponto de atrasar uma vida inteira de conquistas e forçar a troca do mérito por uma grande bola de lama. 
@@ -15,6 +12,13 @@ Ao assistir o vídeo [Como eu parei de procrastinar](https://www.youtube.com/wat
 Antes de iniciar qualquer trabalho independente de sua natureza o foco deve se fazer presente como a menor unidade de composição da obra. O mínimo que compõe o todo. Com o foco em sua forma de definição seria possível alcançar performance com um esforço menor tendo em vista que o multifoco e a atenção distribuída em contextos diferentes é o pilar da ruína e falta de produtividade. 
 
 É preciso enxergar o foco como uma energia finita, escassa, sensível e criativa. A ponto que controlar e administrar o tempo em volta de sua disposição é a chave para o trabalho intelectual em qualquer escala. Trabalho intelectual, expectativas realistas e longevidade produtiva são os temas chave da abordagem.
+## 1.1 Lista de siglas
+
+Apresentação de todas as siglas em inglês e em português do Brasil. A tradução livre para o português pode comportar, em síntese, a definição semântica da sigla, contudo, de acordo com a apresentação do contexto em que se inseriu, a definição semântica pode variar em extensão ou forma.
+
+| Sigla |         Inglês         |  Português (Brasil)   |
+| :---: | :--------------------: | :-------------------: |
+|  MVP  | Minimum Viable Product | Produto Mínimo Viável |
 
 # 2. Material
 
@@ -105,12 +109,24 @@ Sessões de foco de 45 a 60 minutos com 15 minutos de intervalo são uma faixa d
 
 Se houver sobrecarga o sono ou a performance no dia seguinte vão se comprometer se o nível de exaustão for maior do que a qualidade do sono. Outro ponto crucial é o mecanismo de descanso que, em resumo, exclui atividades que envolvam leitura, tela e digitação.
 
-
 # 8. Lembrete durante a seção 
 
-==(expandir seção)==
-Não mude de contexto ==(expandir seção)==
-Descanso ==(expandir seção)==
+Todas as ideias e lembretes que surgirem voce pode anotar do lado direito da folha em uma seção especial para lembretes/ideias. Durante a sessão de foco lembretes importantes podem surgir. 
+
+Com a nota sobre o lembrete pronta o mesmo desaloca espaço de atenção e gera menor ansiedade tendo em vista que quando a tarefa terminar você poderá alternar se necessário.
+
+São exemplos de lembretes importantes, contabilidades diversas, compras, medicações, comprar comida para os animais domésticos, tomar nota de tarefa/subtarefa X.
+
+# 9. Não mude de contexto 
+
+A alternancia entre contextos gera cansaço mental superior a sessões de foco. Exemplos de mudança de contexto seriam trocas de mensagens, notificações de aplicativos externos, ligações, navegação durante as seções de foco, sobrepondo assim, varias camadas de contexto diferentes.
+
+O resultado miraculoso do multifoco em contextos diferentes se torna então o pesadelo da produtividade. Se vários contextos diferentes se acumulam e se alternam em uma mesma janela de tempo a produção será menor e o cansaço maior em escalas evolucionárias tão ruins que vão tocar a procrastinação e invalidar a natureza das práticas até aqui.
+
+# 10. Descanso
+
+
+
 Registrar o reforço positivo ==(expandir seção)==
 
 Modelos de aplicação ==(expandir seção)==
