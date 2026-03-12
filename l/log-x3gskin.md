@@ -55,3 +55,11 @@ Tecido glandial receptivo (POSITIVO):
 | ---------- | --- |
 |            |     |
 
+# 2026-03-12th Recuperação III
+
+Todos os pontos agora tem um pequeno pontinho branco no meio bem pequeno, como se fosse um nova pele. O cheiro esta um pouco forte mas acredito que é devido a lavagem somente com agua e o processo de cicatrização que gera pele morta. 
+
+Eu posso descrever o cheiro como um pouco acentuado porem leve. Sem notas de peixe. 
+A pele está um claro rosa e uniforme diferente de ontem. Apesar dos multiplos pontinhos estou bem satisfeito com a recuperação. Amanhã alguns pontinhos já devem desaparecer por completo.
+
+Sobre o cheiro significa que a presença da microbiota está voltando ao que era antes. Com multiplas papulas o cheiro também há de ser um pouco acentuado. Ainda assim, é um cheiro de pau normal, sem excedentes para notas com cheiro ruim (de queijo ou peixe)
