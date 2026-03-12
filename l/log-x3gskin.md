@@ -32,9 +32,10 @@ Sabonete a base de coco seria ok mas ainda tenho que observar a reação e anota
 # 2026-03-12th REATIVOS
 
 
-| Gatilho para Dermatite (negativo)                        | Pele Glandial receptiva (positivo) |
-| -------------------------------------------------------- | ---------------------------------- |
-| Masturbação a seco<br>(dermatite de contato por fricção) | Agua corrente (sem sabão)          |
-| Bepantol                                                 | oleo de coco                       |
-| niveamilk5                                               | oleo de amendoas                   |
-|                                                          |                                    |
+| Gatilho para Dermatite (negativo)                        |     | Pele Glandial receptiva (positivo) |
+| -------------------------------------------------------- | --- | ---------------------------------: |
+| Masturbação a seco<br>(dermatite de contato por fricção) |     |          Agua corrente (sem sabão) |
+| Bepantol                                                 |     |                       oleo de coco |
+| niveamilk5                                               |     |                   oleo de amendoas |
+|                                                          |     |             lubrificante (redlube) |
+|                                                          |     |                                    |
