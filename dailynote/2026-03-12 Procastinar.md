@@ -29,15 +29,20 @@ Os materiais devem desconstruir barreiras (alternância de janelas) e oferecer u
 - caderno ou papel avulso (ex.:chamex) + caneta
 - calendário (qualquer calendário que possa escrever blocos de atividades, por exemplo, google calendar, obsidian, notion, excel)
 
-# Plano Semana
+# Plano semana tarefa fixa
 
 Reservar um dia por semana para organizar horários fixos obrigatórios que não vão se alterar (adicione um despertador se necessário). Os horários podem contemplar reuniões, consultas, compras, eventos diversos, blocos de ação (sprints) por exemplo.
 
-# Plano 20
+# Plano semana tarefa com vinte
 
 Planejar 20 tarefas na semana. Cada tarefa deve ser única, em resumo, em uma linha, sem subtarefas. As subtarefas devem ser desdobradas dentro do bloco de ação quando forem objeto do trabalho intelectual. As subtarefas estão fora da contagem e funcionam à nível de pilha de execução de baixo pra cima (missões secundárias).
 
-Por exemplo implementar um Produto Mínimo Viável (MVP, Minimum Viable Product) seria uma tarefa. Implementar uma tela de login seria uma das subtarefas para completar o MVP. Outros exemplos de tarefas seriam criar um vídeo para organizar rotina no youtube, vídeo sobre algoritmos base, vídeo sobre retenção de conhecimento. Qualquer grande tarefa que pode ser quebrada em subtarefas e que parece grande demais
+Por exemplo implementar um Produto Mínimo Viável (MVP, Minimum Viable Product) seria uma tarefa. Implementar uma tela de login seria uma das subtarefas para completar o MVP. Outros exemplos de tarefas seriam criar um vídeo para organizar rotina no youtube, vídeo sobre algoritmos base, vídeo sobre retenção de conhecimento. Qualquer grande tarefa que pode ser quebrada em subtarefas e que parece grande demais.
+
+# Extensão para navegador *Stay Focused*
+
+Extensão *Stay Focused* para bloquear sites que causem distração. Adicione os sites dispersores de foco de acordo com a necessidade de parada, por exemplo, [X](x.com), [instagram](https://www.instagram.com/), [facebook](), youtube.
+# Aplicativo para Smartphone *Friend Focus*
 # Referências
 ![Como eu parei de procrastinar](https://www.youtube.com/watch?v=bDdmfrLgLaw)
 
