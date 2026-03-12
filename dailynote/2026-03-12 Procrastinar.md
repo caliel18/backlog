@@ -1,10 +1,4 @@
 Incluir quando o conteúdo foi revisado e atualizado por último.
-# Capa
-
-# Dedicatória
-
-# Agradecimentos
-
 # Lista de Siglas
 
 Apresentação de todas as siglas em inglês e em português do Brasil. A tradução livre para o português pode comportar, em síntese, a definição semântica da sigla, contudo, de acordo com a apresentação do contexto em que se inseriu, a definição semântica pode variar em extensão ou forma.
