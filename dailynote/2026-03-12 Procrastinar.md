@@ -34,6 +34,10 @@ Os materiais devem desconstruir barreiras (alternância de janelas) e oferecer u
 
 Reservar um dia por semana para organizar horários fixos obrigatórios que não vão se alterar e que você já tem certeza que irão começar em um dia e horário da semana, por exemplo, reuniões, consultas, compras, eventos diversos. Se for de extrema importância você pode usar um despertador no celular.
 
+A alocação também pode ser dinamica de acordo com o fluxo de solicitações. Caso se lembre de alocar um novo bloco durante o foco em um bloco, adicione como lembrete no canto direito do seu caderno ou papel avulso (o lembrete deve ficar visível).
+
+==adicionar imagem de exemplo==
+
 # 4. Plano semana tarefa com vinte
 
 Planejar 20 tarefas na semana. Cada tarefa deve ser única, em resumo, em uma linha, sem subtarefas. As subtarefas devem ser desdobradas dentro do bloco de ação quando forem objeto do trabalho intelectual. Adicionar a subtarefa se pré-determinada antes ou depois de relacionar a tarefa principal. As subtarefas estão fora da contagem e funcionam à nível de pilha de execução de baixo pra cima (missões secundárias).
@@ -46,7 +50,7 @@ Vale ressaltar que as subtarefas tem um papel primordial em quebrar a tarefa mai
 
 ==expandir seção==
 
-## 5.1. Perfeccionismo paralítico e o medo 
+## 5.1. Medo 
 
 ==expandir seção==
 # 6. Bloqueadores de dispersão
@@ -75,7 +79,8 @@ Seguem as orientações para instalação no navegador [Brave](https://brave.com
 ## 6.2. Aplicativo bloqueador para celular *Friend Focus* e o modo avião
 
 Acesse a *playstore* e busque por *Focus Friend*. ==(expandir seção)==
-O Modo avião para celular
+
+6.3. Alternativa modo avião para celular
 
 das seções que faltam completar:
 Seções de tempo ==(expandir seção)==
