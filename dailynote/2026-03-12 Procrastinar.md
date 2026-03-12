@@ -101,9 +101,11 @@ Outro modo alternativo e direto, sem uso de apps seria desligar o celular ou ati
 
 ==das seções que faltam completar:==
 
-# Seções de tempo
+# Seções de foco
 
-A escala deve 
+Seções de foco de 45 a 60 minutos com 15 minutos de intervalo são uma faixa de tempo tolerável. Cinco sessões seriam suficientes para não causar esgotamento. O conjunto 45-15-5 ou 60-15-5 apresenta equílibrio suficiente para iniciantes da prática. Se houver sobrecarga o sono ou a performance no dia seguinte vão se comprometer se o nível de exaustão for maior do que a qualidade do sono. 
+
+
 Lembrete durante a seção ==(expandir seção)==
 Não mude de contexto ==(expandir seção)==
 Descanso ==(expandir seção)==
