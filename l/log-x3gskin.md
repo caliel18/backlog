@@ -45,4 +45,13 @@ Gatilhos para Dermatite (NÃO APLICAR/FAZER):
 - Bepantol, Niveamilk5, Sabão líquido jonhson&jonhson para bebes;
 (fonte: observação da reação da pele da minha glande)
 
+Tecido glandial receptivo (POSITIVO):
+- Lava com agua corrente (sem sabão);
+- Oleo de coco (aplicador conta-gotas);
+- lubrificante (redlube pandatoys);
+- sabonetes, segue a tabela dos testados:
+
+| Nivea MILK |     |
+| ---------- | --- |
+|            |     |
 
