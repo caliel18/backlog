@@ -8,9 +8,11 @@ Tigela Grande
 Misturar
 Levar ao microondas por 1 minuto
 Misturar
-Levar ao microondar por 30 segundos
+Levar ao microondas por 30 segundos
 Misturar
-Levar ao microondar por 30 segundos
+Levar ao microondas por 30 segundos
+Misturar
+Levar ao microondas por 30 segundos
 Misturar
 [FUE] Bater rápido para finalizar
 Tampar com plastico e deixar descansando
@@ -29,6 +31,9 @@ Tampe com plastico e deixe na geladeira por 4 Horas
 
 BOLO DE CENOURA
 
+Untar as formas com manteiga e farinha
+Pré-aquecer o forno 180 graus
+
 Bater no liquidificador 
 
 [PENEIRAR] 3 ovos 
@@ -37,7 +42,6 @@ Bater no liquidificador
 200g cenoura crua ralada (aprox. 3 cenouras M)
 Bater ate ficar homogeneo
 Transferir para Tigela
-Pré-aquecer o forno
 
 Tigela
 
@@ -45,17 +49,13 @@ Tigela
 [FUE] Misturar com o Fue
 Meia colher de sopa 8g FERMENTO QUÍMICO (atenção: quando misturado ele vai ativar e deve ir ao forno)
 [FUE] Misturar com o Fue
-
-Forma
-
-Untar a forma
-Transferir a massa
+Transferir a massa para a FORMA
 45 a 50 minutos de forno
 
 
 MONTAGEM
 Com a massa FRIA
-Medir 3 dedos e Cortar com uma FACA Grande
+Medir a metade do bolo e Cortar com uma FACA Grande
 Adicionar o recheio na parte inferior (Se forem dois bolos pode divir o recheio total em 2)
 Se necessário tampar o buraquinho do vulcão com recheio ou massa amassada para contensão
 Cobrir com a parte superior
