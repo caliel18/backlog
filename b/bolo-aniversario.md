@@ -70,5 +70,6 @@ MISTURAR e cozinhar por 4 minutos
 MIRE no Centro do bolo e despeje todo o contéudo
 O execesso deve se distribuir por toda a massa 
 Passe a colher em movimento circular na superfície
+Se todo o bolo estiver frio é ok despejar a cobertura morna/quente
 
 Pode decorar com chocolate branco e morangos cortados ao meio com o corte pra cima
