@@ -141,4 +141,14 @@ A força de uma fome constructo-regenerativa seria sim a melhor novidade e forç
 
 Tenho que responder as perguntas do segundo paragrafo.
 
-## 2026-03-13th 
+## 2026-03-13th Reforço-positivo
+
+Me admira como um ponto tão simplório, deveras infantil e binário consegue escalar de uma forma tão vertical. Só de pensar na série de reforços positivos que eu poderia alcançar minha mente chega a ter mini explosões. O que me surpreende é que mesmo não ganhando nem um real por isso, no fundo, não importa, ao menos por enquanto que ainda sou junior. Todo o reforço negativo encrustado por decadas entra em um estado quebradiço de dentro pra fora somente por conta de um reforço bobo.
+
+Vou inserir o texto a que me refiro por aqui. Se considero de forma individual, sim é um grão de areia. O início. Se o primeiro passo é o mais díficil e de maior importância, e se todas as instancias de reforço positivo podem acumular, então, eu estou frente a uma força de resignação?
+
+Se eu posso resignar um núcleo seja ele qual for, em especial comportamental, eu consigo alterar a forma, impulsionar, cativar a evolução com um teor de design honesto, verdadeiro e de coração (se minha escrita assim segue por padrão apesar da forma).
+
+Segue o trecho ao qual me refiro em forma de citação (sim, eu escrevi):
+
+
