@@ -139,7 +139,7 @@ Registrar o esforço positivo é o ponto criativo para reconhecer que sua carrei
 
 Segue abaixo um exemplo de reforço positivo de carreira de aprendizagem. É importante escrever em primeira pessoa e ser sincero. Assim pode ler no futuro e evitar exaustão ou esgotamento mental profundo (*burn out*).
 
-> Em meio a um turbilhão de incertezas e incapacidades consigo perceber que pode existir uma fagulha que brilha aos meus olhos. O reforço positivo é que consegui encontrar uma saída da procrastinação. Agora tenho que colocar em prática com honestidade e sem desdem. Estou feliz com a aprendizagem das práticas e quero praticar da melhor forma que eu encontrar.
+> Em meio a um turbilhão de incertezas e incapacidades consigo perceber que pode existir uma fagulha que brilha aos meus olhos. O reforço positivo aqui é que consegui encontrar uma saída da procrastinação. Agora tenho que colocar em prática com honestidade e sem desdem. Estou feliz com a aprendizagem das práticas e quero praticar da melhor forma que eu encontrar. A habilidade de produzir apesar de todas as estacas que ali perfuram o todo. A fagulha que me traz esperança, de que existe uma saída, que posso resignificar e mudar. Mudar para melhor. Reforço positivo.
 
 
 Modelos de aplicação ==(expandir seção)==

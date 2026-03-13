@@ -151,4 +151,8 @@ Se eu posso resignar um núcleo seja ele qual for, em especial comportamental, e
 
 Segue o trecho ao qual me refiro em forma de citação (sim, eu escrevi):
 
+> Em meio a um turbilhão de incertezas e incapacidades consigo perceber que pode existir uma fagulha que brilha aos meus olhos. O reforço positivo aqui é que consegui encontrar uma saída da procrastinação. Agora tenho que colocar em prática com honestidade e sem desdem. Estou feliz com a aprendizagem das práticas e quero praticar da melhor forma que eu encontrar. A habilidade de produzir apesar de todas as estacas que ali perfuram o todo. A fagulha que me traz esperança, de que existe uma saída, que posso resignificar e mudar. Mudar para melhor. Reforço positivo.
 
+Sabe sinto que estou apagado. Que sou apagado. Que ao longo dos anos só decidi me apagar. Que tudo não compesa, que o esforço não sera recompensa, e que no fim, não serei sequer mencionado em uma fila de boas notícias. Afinal a coleção de figurinhas é, no mínimo, de cores frias. 
+
+Apesar de tudo isso sinto hoje, desde ontem para constar, um fragmento diferente de emoção. É como se uma chama azul no fundo começasse a ascender em um corpo cinza feito de pedra. Uma estatua no tempo sem vida que de alguma forma. Espero que no futuro consiga escrever melhor sobre o assunto.
