@@ -1,6 +1,26 @@
 
 Recheio
 
+Tigela Grande
+
+500g Chocolate Branco (Galak Milk)
+200g Creme de Leite
+Misturar
+Levar ao microondas por 1 minuto
+Misturar
+Levar ao microondar por 30 segundos
+Misturar
+Levar ao microondar por 30 segundos
+Misturar
+[FUE] Bater rápido para finalizar
+Tampar com plastico e deixar descansando
+
+Panela grande e grossa
+
+395g leite condensado
+50g leite em pó
+Misturar para dissolver
+400g Creme de Leite
 
 
 
