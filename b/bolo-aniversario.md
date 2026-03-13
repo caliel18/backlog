@@ -27,10 +27,6 @@ Desligar o fogo e esperar esfriar
 Quando os dois esfriarem misturar os dois
 Tampe com plastico e deixe na geladeira por 4 Horas
 
-COBERTURA
-
-LL
-
 BOLO DE CENOURA
 
 Bater no liquidificador 
@@ -47,7 +43,7 @@ Tigela
 
 [PENEIRAR] 180g farinha de trigo sem fermento 
 [FUE] Misturar com o Fue
-Meia colher de sopa 8g fermento químico
+Meia colher de sopa 8g FERMENTO QUÍMICO (atenção: quando misturado ele vai ativar e deve ir ao forno)
 [FUE] Misturar com o Fue
 
 Forma
@@ -57,4 +53,22 @@ Transferir a massa
 45 a 50 minutos de forno
 
 
+MONTAGEM
+Com a massa FRIA
+Medir 3 dedos e Cortar com uma FACA Grande
+Adicionar o recheio na parte inferior
+Se necessário tampar o buraquinho do vulcão com recheio ou massa amassada para contensão
+Cobrir com a parte superior
+Nivelar com a faca
 
+COBERTURA
+
+1 Caixa de leite condensado
+40g leite em pó
+200g creme de leite
+MISTURAR e cozinhar por 4 minutos
+MIRE no Centro do bolo e despeje todo o contéudo
+O execesso deve se distribuir por toda a massa 
+Passe a colher em movimento circular na superfície
+
+Pode decorar com chocolate branco e morangos cortados ao meio com o corte pra cima
