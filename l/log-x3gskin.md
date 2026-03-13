@@ -55,3 +55,7 @@ Eu posso descrever o cheiro como um pouco acentuado porem leve. Sem notas de pei
 A pele está um claro rosa e uniforme diferente de ontem. Apesar dos multiplos pontinhos estou bem satisfeito com a recuperação. Amanhã alguns pontinhos já devem desaparecer por completo.
 
 Sobre o cheiro significa que a presença da microbiota está voltando ao que era antes. Com multiplas papulas o cheiro também há de ser um pouco acentuado. Ainda assim, é um cheiro de pau normal, sem excedentes para notas com cheiro ruim (de queijo ou peixe).
+
+# 2026-03-13th Amendoas
+
+Aplicação de oleo de amendoas. Devo observar o resultado. Ainda contínuo a lavar apenas com agua morna corrente.
