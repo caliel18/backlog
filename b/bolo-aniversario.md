@@ -56,7 +56,7 @@ Transferir a massa
 MONTAGEM
 Com a massa FRIA
 Medir 3 dedos e Cortar com uma FACA Grande
-Adicionar o recheio na parte inferior
+Adicionar o recheio na parte inferior (Se forem dois bolos pode divir o recheio total em 2)
 Se necessário tampar o buraquinho do vulcão com recheio ou massa amassada para contensão
 Cobrir com a parte superior
 Nivelar com a faca
