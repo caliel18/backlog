@@ -1,5 +1,5 @@
 
-Recheio
+RECHEIO
 
 Tigela Grande
 
@@ -27,6 +27,11 @@ Desligar o fogo e esperar esfriar
 Quando os dois esfriarem misturar os dois
 Tampe com plastico e deixe na geladeira por 4 Horas
 
+COBERTURA
+
+
+
+BOLO DE CENOURA
 
 Bater no liquidificador 
 
@@ -50,5 +55,6 @@ Forma
 Untar a forma
 Transferir a massa
 45 a 50 minutos de forno
+
 
 
