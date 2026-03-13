@@ -55,11 +55,13 @@ Transferir a massa para a FORMA
 
 MONTAGEM
 Com a massa FRIA
+SE a superficie do Bolo ficar em destaque voce pode Cortar para ficar reto
+USE a parte amassada no centro como contensão da cobertura
 Medir a metade do bolo e Cortar com uma FACA Grande
 Adicionar o recheio na parte inferior (Se forem dois bolos pode divir o recheio total em 2)
 Se necessário tampar o buraquinho do vulcão com recheio ou massa amassada para contensão
 Cobrir com a parte superior
-Nivelar com a faca
+Nivelar com a faca se o recheio escapar pelas beiradas do bolo
 
 COBERTURA
 
