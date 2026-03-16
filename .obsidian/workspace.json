@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-03-15º.md",
+                "file": "dailynote/2026-03-16º.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-15º"
+              "title": "2026-03-16º"
             }
           }
         ]
@@ -84,13 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-03-15º.md",
+                "file": "dailynote/2026-03-16º.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2026-03-15º"
+              "title": "Sumário de 2026-03-16º"
             }
           },
           {
@@ -203,13 +203,15 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "154caf11b905c0df",
   "lastOpenFiles": [
-    "b/bolo-aniversario.md",
     "dailynote/2026-03-15º.md",
+    "dailynote/2026-03-16º.md",
+    "b/bolo-aniversario.md",
     "dailynote/2026-03-13º.md",
     "dailynote/2026-03-12 Procrastinar.md",
     "dailynote/2026-02-23rd.md",
@@ -233,7 +235,6 @@
     "dailynote/2026-03-3º.md",
     "l/log-x3xppc.md",
     "l/log-modelo.md",
-    "dailynote/2026-03-2º.md",
     "Pasted image 20250916235840.png",
     "Pasted image 20250916235805.png",
     "Pasted image 20250916235620.png",
