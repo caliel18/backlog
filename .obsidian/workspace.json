@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-03-28º.md",
+                "file": "dailynote/2026-03-29º.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-28º"
+              "title": "2026-03-29º"
             }
           }
         ]
@@ -84,13 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-03-28º.md",
+                "file": "dailynote/2026-03-29º.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2026-03-28º"
+              "title": "Sumário de 2026-03-29º"
             }
           },
           {
@@ -208,8 +208,9 @@
   },
   "active": "154caf11b905c0df",
   "lastOpenFiles": [
-    "dailynote/2026-03-24º.md",
     "dailynote/2026-03-28º.md",
+    "dailynote/2026-03-29º.md",
+    "dailynote/2026-03-24º.md",
     "dailynote/2026-03-26º.md",
     "dailynote/2026-03-25º.md",
     "dailynote/2026-03-23º.md",
@@ -233,7 +234,6 @@
     "l/log-x3xp.md",
     "l/log-x3mtb.md",
     "dailynote/2026-03-10º.md",
-    "b/brave-bookmarks.md",
     "Pasted image 20250916235840.png",
     "Pasted image 20250916235805.png",
     "Pasted image 20250916235620.png",
