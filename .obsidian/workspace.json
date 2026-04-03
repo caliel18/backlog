@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-04-2º.md",
+                "file": "dailynote/2026-04-3º.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-2º"
+              "title": "2026-04-3º"
             }
           }
         ]
@@ -84,13 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-04-2º.md",
+                "file": "dailynote/2026-04-3º.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2026-04-2º"
+              "title": "Sumário de 2026-04-3º"
             }
           },
           {
@@ -203,13 +203,15 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "154caf11b905c0df",
   "lastOpenFiles": [
-    "dailynote/2026-04-1º.md",
     "dailynote/2026-04-2º.md",
+    "dailynote/2026-04-3º.md",
+    "dailynote/2026-04-1º.md",
     "dailynote/2026-03-31º.md",
     "dailynote/2026-03-30º.md",
     "dailynote/2026-03-29º.md",
@@ -233,7 +235,6 @@
     "l/log-x3gskin.md",
     "l/log-overburdened.md",
     "dailynote/2026-03-12 Procrastinar II.md",
-    "f/frases.md",
     "Pasted image 20250916235840.png",
     "Pasted image 20250916235805.png",
     "Pasted image 20250916235620.png",
