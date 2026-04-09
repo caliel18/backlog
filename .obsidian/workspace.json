@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-04-7º.md",
+                "file": "dailynote/2026-04-8º.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-7º"
+              "title": "2026-04-8º"
             }
           }
         ]
@@ -84,13 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-04-7º.md",
+                "file": "dailynote/2026-04-8º.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2026-04-7º"
+              "title": "Sumário de 2026-04-8º"
             }
           },
           {
@@ -208,8 +208,9 @@
   },
   "active": "154caf11b905c0df",
   "lastOpenFiles": [
-    "dailynote/2026-04-6º.md",
     "dailynote/2026-04-7º.md",
+    "dailynote/2026-04-8º.md",
+    "dailynote/2026-04-6º.md",
     "dailynote/2026-04-5º.md",
     "dailynote/2026-04-4º.md",
     "dailynote/2026-04-3º.md",
@@ -233,7 +234,6 @@
     "dailynote/2026-03-15º.md",
     "b/bolo-aniversario.md",
     "dailynote/2026-03-13º.md",
-    "dailynote/2026-03-12 Procrastinar.md",
     "Pasted image 20250916235840.png",
     "Pasted image 20250916235805.png",
     "Pasted image 20250916235620.png",
