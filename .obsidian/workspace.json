@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "i/inss.md",
+                "file": "dailynote/2026-04-11º.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "inss"
+              "title": "2026-04-11º"
             }
           }
         ]
@@ -84,13 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "i/inss.md",
+                "file": "dailynote/2026-04-11º.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de inss"
+              "title": "Sumário de 2026-04-11º"
             }
           },
           {
@@ -208,8 +208,9 @@
   },
   "active": "154caf11b905c0df",
   "lastOpenFiles": [
-    "dailynote/2026-04-10º.md",
     "i/inss.md",
+    "dailynote/2026-04-11º.md",
+    "dailynote/2026-04-10º.md",
     "dailynote/2026-04-9º.md",
     "a/agenda25.md",
     "i/iptu.md",
@@ -233,7 +234,6 @@
     "dailynote/2026-03-22º.md",
     "dailynote/2026-03-21º.md",
     "dailynote/2026-03-20º.md",
-    "dailynote/2026-03-19º.md",
     "Pasted image 20250916235840.png",
     "Pasted image 20250916235805.png",
     "Pasted image 20250916235620.png",
