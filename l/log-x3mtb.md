@@ -19,7 +19,8 @@ O segundo problema são as papulas. Que em grande porcentagem quase sempre saem 
 
 ## 2026-04-13 Legenda
 
-... é um marcador especial que significa entradas que não foram registradas. 
+! É um marcador especial que significa supresa positiva. Se refere ao meu corpo, em especial ao meu desempenho, principalmente no que é tangível a ereção e sua qualidade.
+... é um marcador especial que significa entradas que não foram registradas. Pode se referir a uma ou mais entradas ao mesmo tempo. 
 : é um marcador especial que significa uma pequena pausa de alguns minutos. Sempre antecede um segundo item da legenda depois do primeiro, por exemplo, C:L, C:C, L:L. 
 C Curta duração. É uma descrição para te lembrar a não gozar tão rápido e tirar antes. Se pulsar de tesão e começar a gozar, já pode penetrar denovo. A sensação é boa o suficiente para conseguir repetir uma segunda vez. Não vai ficar exausto. Contudo, vai ter que esperar um tempinho de resfriamento até ficar duro denovo. Há uma pequena chance de acontecer um superestado, pequena, chance.
 EI Ereção intensa. Regime sobre controle ao expor a glande e ficar segurando o prepucio para baixo com a ponta do dedão para não fechar sozinho, até pulsar varias vezes e passar. É uma manobra arriscada mas funciona. A unica diferença das outras ereções é que essa convida ao descontrole total. É díficil de segurar em relação as outras.
@@ -32,8 +33,8 @@ S Sexo. Sempre deve conter um link para uma anotação do que aconteceu. Eu gost
 ## 2026-04-13 Abril-T
 
 11 SEX +0135 +0530 +EI1030 +1346 +1352 +EI1632 +20XX +22XX +23XX +LQ2352
-12 SAB [S0130KEV-C:L] ... ... ... ...
-13 SEG +1600 +2030 +2130 ...
+12 SAB [S0130KEV-C:L]! ... ... ... ...
+13 SEG +1600 +2030 +2130 ... ...
 14 TER
 15 QUA
 16 QUI
