@@ -17,9 +17,12 @@ O objetivo aqui é evitar a masturbação para não ficar com microlesões causa
 
 O segundo problema são as papulas. Que em grande porcentagem quase sempre saem danificadas causando dor. Microlesões e papulas. São palavras chaves diferentes. Vou testar se são suficientes em me parar.
 
+## 2026-04-13 Legenda
+
+EA Ereção ao Acordar,
 ## 2026-04-13 Abril-T
 
-11 SEX +0135 +0530 +1346 +E1030
+11 SEX +0135 +0530 +1346 +EA1030
 12 SAB
 13 SEG
 14 TER
