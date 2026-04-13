@@ -19,7 +19,7 @@ O segundo problema são as papulas. Que em grande porcentagem quase sempre saem 
 
 ## 2026-04-13 Abril-T
 
-11 SEX
+11 SEX +0135 +0530 +1346 +E1030
 12 SAB
 13 SEG
 14 TER
