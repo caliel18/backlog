@@ -19,3 +19,23 @@ O segundo problema são as papulas. Que em grande porcentagem quase sempre saem 
 
 ## 2026-04-13 Abril-T
 
+11 SEX
+12 SAB
+13 SEG
+14 TER
+15 QUA
+16 QUI
+17 SEX
+18 SAB
+19 DOM
+20 SEG
+21 TER
+22 QUA
+23 QUI
+24 SEX
+25 SAB
+26 DOM
+27 SEG
+28 TER 
+29 QUA
+30 QUI
