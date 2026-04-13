@@ -17,7 +17,7 @@ O objetivo aqui é evitar a masturbação para não ficar com microlesões causa
 
 O segundo problema são as papulas. Que em grande porcentagem quase sempre saem danificadas causando dor. Microlesões e papulas. São palavras chaves diferentes. Vou testar se são suficientes em me parar.
 
-## 2026-04-13 Legenda
+## 2026-04-13th Legenda
 
 ! É um marcador especial que significa supresa positiva. Se refere ao meu corpo, em especial ao meu desempenho, principalmente no que é tangível a ereção e sua qualidade.
 ... é um marcador especial que significa entradas que não foram registradas. Pode se referir a uma ou mais entradas ao mesmo tempo. 
@@ -30,7 +30,7 @@ L longa duração
 LQ Limiar de Quebra. Seja por acumulo de estímulos ou de vontade descrevo o estado como alguem que está na ponta de um trampolim prestes a pular na piscina. É o estado que antecede, por um triz, a masturbação descontrolada.
 S Sexo. Sempre deve conter um link para uma anotação do que aconteceu. Eu gostaria de acrescentar sufixos para tornar a entrada unica. Poderia ser as 3 iniciais do nome ou do local. 
 
-## 2026-04-13 Abril-T
+## 2026-04-13th Abril-T
 
 11 SEX +0135 +0530 +EI1030 +1346 +1352 +EI1632 +20XX +22XX +23XX +LQ2352
 12 SAB [S0130KEV-C:L]! ... ... ... ...
