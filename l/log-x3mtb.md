@@ -19,11 +19,16 @@ O segundo problema são as papulas. Que em grande porcentagem quase sempre saem 
 
 ## 2026-04-13 Legenda
 
-EA Ereção ao Acordar / 
+EI Ereção intensa. Regime sobre controle ao expor a glande e ficar segurando o prepucio para baixo com a ponta do dedão para não fechar sozinho, até pulsar varias vezes e passar. É uma manobra arriscada mas funciona.
+EIA Ereção intensa ao acordar.
+EID Ereção intensa ao dormir.
+LQ Limiar de Quebra. Seja por acumulo de estímulos ou de vontade descrevo o estado como alguem que está na ponta de um trampolim prestes a pular na piscina. É o estado que antecede, por um triz, a masturbação descontrolada.
+S Sexo. Sempre deve conter um link para uma anotação do que aconteceu. Eu gostaria de acrescentar sufixos para tornar a entrada unica.
+
 ## 2026-04-13 Abril-T
 
-11 SEX +0135 +0530 +1346 +EA1030
-12 SAB
+11 SEX +0135 +0530 +EI1030 +1346 +1352 +EI1632 +20XX +22XX +23XX +LQ2352
+12 SAB [S0130]
 13 SEG
 14 TER
 15 QUA
