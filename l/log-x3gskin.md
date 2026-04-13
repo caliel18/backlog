@@ -59,3 +59,7 @@ Sobre o cheiro significa que a presença da microbiota está voltando ao que era
 # 2026-03-13th Amendoas
 
 Aplicação de oleo de amendoas. Devo observar o resultado. Ainda contínuo a lavar apenas com agua morna corrente.
+
+# 2026-04-13th Amendoas II
+
+Há um mês atras comecei a aplicação de oleo de amendoas logo apos o banho na glande. Todas as irritações chegaram ao fim e a pele segue em uma constante brilhante, lisa e sem marcas escuras. 

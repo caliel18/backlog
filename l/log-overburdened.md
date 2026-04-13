@@ -141,7 +141,7 @@ A força de uma fome constructo-regenerativa seria sim a melhor novidade e forç
 
 Tenho que responder as perguntas do segundo paragrafo.
 
-## 2026-03-13th Reforço-positivo
+## 2026-03-13th Fagulha
 
 Me admira como um ponto tão simplório, deveras infantil e binário consegue escalar de uma forma tão vertical. Só de pensar na série de reforços positivos que eu poderia alcançar minha mente chega a ter mini explosões. O que me surpreende é que mesmo não ganhando nem um real por isso, no fundo, não importa, ao menos por enquanto que ainda sou junior. Todo o reforço negativo encrustado por decadas entra em um estado quebradiço de dentro pra fora somente por conta de um reforço bobo.
 
@@ -156,3 +156,17 @@ Segue o trecho ao qual me refiro em forma de citação (sim, eu escrevi):
 Sabe sinto que estou apagado. Que sou apagado. Que ao longo dos anos só decidi me apagar. Que tudo não compesa, que o esforço não sera recompensa, e que no fim, não serei sequer mencionado em uma fila de boas notícias. Afinal a coleção de figurinhas é, no mínimo, de cores frias. 
 
 Apesar de tudo isso sinto hoje, desde ontem para constar, um fragmento diferente de emoção. É como se uma chama azul no fundo começasse a ascender em um corpo cinza feito de pedra. Uma estatua no tempo sem vida que de alguma forma. Espero que no futuro consiga escrever melhor sobre o assunto.
+
+# 2026-04-13th DiabloIV
+
+Não consigo fazer pit 110. Sim consigo eliminar todos os inimigos com a *build auradin* mas não dentro do tempo. Fiz a transição para *juggernaut blessed shield thorns*. Sim são bilhões de dano e os chefes derretiam ao ponto de as vezes durarem menos de um minuto ao contrário da auradin, que apesar de segura, eu levava minutos para completar a luta. Não consigo superar a barreira de dps imposta na pit 110 mesmo fazendo pequenos ajustes. 
+Hoje fui eliminado varias vezes em uma dungeon ensanguentada - *bloodsoaked* - para o açougueiro. Aquilo me acumulou frustração. O jogo não tem interação com outros jogadores, não tem chat ativo, não tem brasileiros. Todos jogam o seu jogo, no seu farm.
+O oposto do wotlk brasil. Não há funções como tank, dps, suporte. A estrutura de um rpg original não existe ali. Queimei dinheiro demais e toda vez acessava a loja para querer comprar um set melhor ainda. Mal eu sabia que ficara tão decepcionado com o jogo. Como uma construção que usa espinhos e ataca com escudo pode morrer miseravelmente para dano físico de um inimigo que não tem importância em uma *dungeon* tão fácil?
+Sabe eu esperava tão mais. A diversão acabou e o sentido de progressão também. Aprender tantas coisas em tão pouco tempo e fazer tudo com tanta acurácia para no final morrer para um perseguidor empilhador de numeros.
+De certo modo fui inocente demais eu sei. E já não é a primeira vez. O preço de maturar a inocência é o sacrificio equivalente de algo importante. Meu tempo, meu vigor, meu sentido e proposito. Que sim, andam sempre em frangalhos, mas talvez, bem la no fundo, eu poderia ter tomado uma decisão diferente. 
+Eu gostaria sim de voltar no tempo com todas as lembranças que adquiri e decidir por não comprar o jogo? Sim, eu não compraria o jogo. 
+Infelizmente a vida não tem o botão de voltar no tempo. Apesar do infortúnio pesar, tem um espaço ali que você escrever sobre tomar boas decisões ou controlar seus gastos para evitar tamanho sentimento no futuro.
+Ao passo que pode ser risório comprar o ecossistema do wotlk com o diabloIV eu acredito que vale sim a comparação. São propostas que envolvem uma jornada. Sim eu já me senti frustrado com o wotlk em jogar meu tempo fora com algo que não vai para frente ou não vai ter reconhecimento. Mas será que são essas duas coisas que eu procuro? Ou séria só uma fuga da minha pobre realidade e do que me tornei aos 31? Tudo parece uma sinfonia de uma pobre alma rasgada por tigres espectrais famintos.
+Desinstalei o jogo na data de hoje. Me sinto triste mas aliviado. É uma combinação estranha.
+
+# Alterar o nome de todas as notas relacionadas com log para anotacao como por exemplo, anotacao-diario, anotacao-x3glan (antiga gskin), anotacao-x3mtb, anotacao-x3xp
