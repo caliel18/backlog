@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "d/d4.md",
+                "file": "b/bookmarks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "d4"
+              "title": "bookmarks"
             }
           }
         ]
@@ -84,13 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "d/d4.md",
+                "file": "b/bookmarks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de d4"
+              "title": "Sumário de bookmarks"
             }
           },
           {
@@ -209,8 +209,8 @@
   },
   "active": "154caf11b905c0df",
   "lastOpenFiles": [
-    "dailynote/2026-04-14º.md",
     "d/d4.md",
+    "dailynote/2026-04-14º.md",
     "dailynote/2026-04-13º.md",
     "l/log-x3xp.md",
     "l/log-x3mtb.md",

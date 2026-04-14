@@ -15,7 +15,7 @@
 	#community/plugins 
 
 #brave
-	#brave/bookmarks [[brave-bookmarks]]
+	#brave/bookmarks [[bookmarks]]
 
 #dataview [[dataview]] [3 Amazing Obsidian Plugins Dataview, Outliner and Templater](https://www.youtube.com/watch?v=2234DXKbNgM&t=1973s)
 
@@ -29,7 +29,7 @@
 
 #flowlauncher
 	#flowlauncher/plugin
-		#flowlauncher/plugin/bookmarks [[brave-bookmarks]]
+		#flowlauncher/plugin/bookmarks [[bookmarks]]
 
 #excalidraw
 	#excalidraw/doc [[excalidraw-doc]]
