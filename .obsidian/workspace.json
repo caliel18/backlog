@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "d/d4.md",
+                "file": "dailynote/2026-04-14º.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "d4"
+              "title": "2026-04-14º"
             }
           }
         ]
@@ -84,13 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "d/d4.md",
+                "file": "dailynote/2026-04-14º.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de d4"
+              "title": "Sumário de 2026-04-14º"
             }
           },
           {
@@ -203,8 +203,7 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "154caf11b905c0df",
