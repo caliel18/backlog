@@ -171,6 +171,8 @@ Desinstalei o jogo na data de hoje. Me sinto triste mas aliviado. É uma combina
 
 ## 2026-04-15th DiabloIV
 
+Com o nível de frutração altíssimo, vista sua contemplação na última nota, percebo que, havia algo de errado na construção e gameplay do personagem.
+
 ## Menosprezo
 
 # Alterar o nome de todas as notas relacionadas com log para anotacao como por exemplo, anotacao-diario, anotacao-x3glan (antiga gskin), anotacao-x3mtb, anotacao-x3xp
