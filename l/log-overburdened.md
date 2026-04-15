@@ -171,11 +171,12 @@ Desinstalei o jogo na data de hoje. Me sinto triste mas aliviado. É uma combina
 
 ## 2026-04-15th DiabloIV
 
-Com o nível de frutração altíssimo, vista sua contemplação na última nota, percebo que, havia algo de errado na construção e gameplay do personagem. Por sorte ocasional encontrei o vídeo [Captain America shield throw in-depth guide](https://www.youtube.com/watch?v=Oe3cvMt9cKs) que me mostrou o quão errado tudo estava. Fiz as correções e toda a gameplay mudou por completo. Fiquei feliz e satisfeito com a mudança. Adicionar as luvas do destino (*fists of fate*) e alterar runas e pequenos detalhes do set me permitiram fazer o conteúdo que até então me fez desinstalar o jogo. E no fim? Nenhuma grande recompensa no pit110. Descobri que conseguia derrotar o belial (grande, verdadeiro) em poucos segundos (sim segundos) para então farmar itens. Dez tentativas aproximadamente sem nenhum item importante. Fiquei ate quase seis horas da manhã para algumas horas mais tarde ser menosprezado por dormir durante o dia e ficar acordado a noite. De um lado ganho quase zero pouco expressivo, do outro lado ganho menosprezo, e no fim, minha desolação com o futuro cai na risada.
+Com o nível de frutração altíssimo, vista sua contemplação na última nota, percebo que, havia algo de errado na construção e gameplay do personagem. Por sorte ocasional encontrei o vídeo [Captain America shield throw in-depth guide](https://www.youtube.com/watch?v=Oe3cvMt9cKs) que me mostrou o quão errado tudo estava. Fiz as correções e toda a gameplay mudou por completo. Fiquei feliz e satisfeito com a mudança. Adicionar as luvas do destino (*fists of fate*) e alterar runas e pequenos detalhes do set me permitiram fazer o conteúdo que até então me fez desinstalar o jogo. E no fim? Nenhuma grande recompensa no pit110. Descobri que conseguia derrotar o belial (grande, verdadeiro) em poucos segundos (sim segundos) para então farmar itens. Dez tentativas aproximadamente sem nenhum item importante. Fiquei ate quase seis horas da manhã para algumas horas mais tarde ser menosprezado por dormir durante o dia e ficar acordado a noite. De um lado ganho quase zero e pouco expressivo, do outro lado ganho menosprezo, e no fim, minha desolação com o futuro cai na risada.
 Minha tendencia em me agarrar em coisas inuteis é dominante.
 
-### 2026-04-15th Menosprezo
+## 2026-04-15th Menosprezo
 
-
+Há tanto o que escrever por aqui. No fundo eu só gostaria de desaparecer da existência. Só penso em reescrever o texto da última seção "Fiquei ate quase seis horas da manhã para algumas horas mais tarde ser menosprezado por dormir durante o dia e ficar acordado a noite. De um lado ganho quase zero e pouco expressivo, do outro lado ganho menosprezo, e no fim, minha desolação com o futuro cai na risada."
+Sobre o menosprezo em si já se repete todo ano da mesma forma em situações ocasionais onde se houvem evidencias como barulho de teclado ou ventoinha. O penitente e o penitenciador.
 
 # Alterar o nome de todas as notas relacionadas com log para anotacao como por exemplo, anotacao-diario, anotacao-x3glan (antiga gskin), anotacao-x3mtb, anotacao-x3xp
