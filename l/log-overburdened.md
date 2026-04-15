@@ -177,6 +177,7 @@ Minha tendencia em me agarrar em coisas inuteis é dominante.
 ## 2026-04-15th Menosprezo
 
 Há tanto o que escrever por aqui. No fundo eu só gostaria de desaparecer da existência. Só penso em reescrever o texto da última seção "Fiquei ate quase seis horas da manhã para algumas horas mais tarde ser menosprezado por dormir durante o dia e ficar acordado a noite. De um lado ganho quase zero e pouco expressivo, do outro lado ganho menosprezo, e no fim, minha desolação com o futuro cai na risada."
-Sobre o menosprezo em si já se repete todo ano da mesma forma em situações ocasionais onde se houvem evidencias como barulho de teclado ou ventoinha. O penitente e o penitenciador.
+Sobre o menosprezo em si já se repete todo ano da mesma forma em situações ocasionais onde se houvem evidencias como barulho de teclado ou ventoinha. O penitente e o penitenciador sempre a espreita na sua hora final. Eu só não o que fazer. Se eu não levar a sério tudo vai repetir em um tom ainda mais ácido, se eu levo a sério, e quanto mais eu levo a sério, sinto um pesar negativo. Como se meu humor estivesse sendo devorado por larvas de dentro pra fora. Como se eu tivesse que me esforçar para sorrir ou me sentir bem. Estou mais pelo segundo. Quem sabe uma transa me faça esquecer tudo isso e tentar tomar uma boa decisão. Eu só espero que meu estado de humor agredido não interfira na interação com outra pessoa. Já não sei o que pensar. A essa altura eu já deveria ter resistência suficiente a este tipo de envenenamento.
+Quem sabe eu encontre em mim um bastião capaz de me fazer superar rápido tudo o que aconteceu.
 
 # Alterar o nome de todas as notas relacionadas com log para anotacao como por exemplo, anotacao-diario, anotacao-x3glan (antiga gskin), anotacao-x3mtb, anotacao-x3xp

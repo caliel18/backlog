@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "l/log-overburdened.md",
+                "file": "a/abnt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "log-overburdened"
+              "title": "abnt"
             }
           }
         ]
@@ -84,13 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "l/log-overburdened.md",
+                "file": "a/abnt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de log-overburdened"
+              "title": "Sumário de abnt"
             }
           },
           {
@@ -209,6 +209,7 @@
   },
   "active": "154caf11b905c0df",
   "lastOpenFiles": [
+    "l/log-overburdened.md",
     "a/abnt.md",
     "c/condominio-caminhosdocerrado.md",
     "dailynote/2026-04-15º.md",
@@ -219,7 +220,6 @@
     "l/log-x3xp.md",
     "l/log-x3mtb.md",
     "l/log-x3gskin.md",
-    "l/log-overburdened.md",
     "l/log-x3xppc.md",
     "dailynote/2026-04-12º.md",
     "dailynote/2026-04-11º.md",
