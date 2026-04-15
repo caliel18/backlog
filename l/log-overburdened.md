@@ -157,7 +157,7 @@ Sabe sinto que estou apagado. Que sou apagado. Que ao longo dos anos só decidi 
 
 Apesar de tudo isso sinto hoje, desde ontem para constar, um fragmento diferente de emoção. É como se uma chama azul no fundo começasse a ascender em um corpo cinza feito de pedra. Uma estatua no tempo sem vida que de alguma forma. Espero que no futuro consiga escrever melhor sobre o assunto.
 
-# 2026-04-13th DiabloIV
+## 2026-04-13th DiabloIV
 
 Não consigo fazer pit 110. Sim consigo eliminar todos os inimigos com a *build auradin* mas não dentro do tempo. Fiz a transição para *juggernaut blessed shield thorns*. Sim são bilhões de dano e os chefes derretiam ao ponto de as vezes durarem menos de um minuto ao contrário da auradin, que apesar de segura, eu levava minutos para completar a luta. Não consigo superar a barreira de dps imposta na pit 110 mesmo fazendo pequenos ajustes. 
 Hoje fui eliminado varias vezes em uma dungeon ensanguentada - *bloodsoaked* - para o açougueiro. Aquilo me acumulou frustração. O jogo não tem interação com outros jogadores, não tem chat ativo, não tem brasileiros. Todos jogam o seu jogo, no seu farm.
@@ -168,5 +168,9 @@ Eu gostaria sim de voltar no tempo com todas as lembranças que adquiri e decidi
 Infelizmente a vida não tem o botão de voltar no tempo. Apesar do infortúnio pesar, tem um espaço ali que você escrever sobre tomar boas decisões ou controlar seus gastos para evitar tamanho sentimento no futuro.
 Ao passo que pode ser risório comprar o ecossistema do wotlk com o diabloIV eu acredito que vale sim a comparação. São propostas que envolvem uma jornada. Sim eu já me senti frustrado com o wotlk em jogar meu tempo fora com algo que não vai para frente ou não vai ter reconhecimento. Mas será que são essas duas coisas que eu procuro? Ou séria só uma fuga da minha pobre realidade e do que me tornei aos 31? Tudo parece uma sinfonia de uma pobre alma rasgada por tigres espectrais famintos.
 Desinstalei o jogo na data de hoje. Me sinto triste mas aliviado. É uma combinação estranha.
+
+## 2026-04-15th DiabloIV
+
+## Menosprezo
 
 # Alterar o nome de todas as notas relacionadas com log para anotacao como por exemplo, anotacao-diario, anotacao-x3glan (antiga gskin), anotacao-x3mtb, anotacao-x3xp
