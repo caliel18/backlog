@@ -26,14 +26,14 @@ A norma ABNT NBR 6024 especifica que a numeração progressiva deve ser utilizad
 
 Exemplo:
 1. Introdução
-1.1. Justificativa
-1.2. Objetivos
+	1.1. Justificativa
+	1.2. Objetivos
 2. Revisão Bibliográfica
-2.1. Conceitos Fundamentais
-2.2. Teorias e Modelos
+	2.1. Conceitos Fundamentais
+	2.2. Teorias e Modelos
 3. Metodologia
-3.1. Tipo de Pesquisa
-3.2. Instrumentos de Coleta de Dados 
+	3.1. Tipo de Pesquisa
+	3.2. Instrumentos de Coleta de Dados 
 
 A norma também estabelece que a numeração deve ser utilizada de forma consistente em todo o trabalho, seguindo a sequência lógica e hierárquica das seções e subseções. 
 
@@ -77,7 +77,7 @@ Como fazer: Organize o sumário de acordo com a estrutura do trabalho, indicando
 	Palavras-chave: Termos relevantes que representem o conteúdo do trabalho (geralmente de três a cinco).
 
 **5. Abstract**
-Versão em inglês do resumo, incluindo as mesmas informações (objetivo, metodologia, resultados, conclusão e palavras-chave).
+	Versão em inglês do resumo, incluindo as mesmas informações (objetivo, metodologia, resultados, conclusão e palavras-chave).
 
 **6. Sumário**
 	Lista das principais seções e subseções: Com a respectiva numeração de páginas, refletindo toda a estrutura do trabalho.
@@ -111,7 +111,7 @@ Análise e Discussão dos Resultados:
 	Sugestões para pesquisas futuras: Indicações de novas áreas ou questões a serem exploradas.
 
 **10. Referências**
-Lista de referências: Relação completa das fontes citadas no trabalho, conforme normas da ABNT ou outra norma adotada pela instituição.
+	Lista de referências: Relação completa das fontes citadas no trabalho, conforme normas da ABNT ou outra norma adotada pela instituição.
 
 **Artigos científicos**
 
@@ -132,7 +132,7 @@ Lista de referências: Relação completa das fontes citadas no trabalho, confor
 	Palavras-chave: Termos que representam o conteúdo do artigo (geralmente de três a cinco).
 
 **4. Abstract**
-Versão em inglês do resumo, incluindo as mesmas informações (objetivo, metodologia, resultados, conclusão e palavras-chave).
+	Versão em inglês do resumo, incluindo as mesmas informações (objetivo, metodologia, resultados, conclusão e palavras-chave).
 
 **5. Introdução**
 	Contextualização: Apresentação do tema e sua relevância.
@@ -169,7 +169,7 @@ Versão em inglês do resumo, incluindo as mesmas informações (objetivo, metod
 	Sugestões para estudos futuros: Indicação de novas áreas de pesquisa ou aprofundamento.
 
 **11. Referências**
-Lista de referências: Relação completa das fontes citadas no artigo, conforme normas da ABNT, APA ou outra norma adotada pela publicação.
+	Lista de referências: Relação completa das fontes citadas no artigo, conforme normas da ABNT, APA ou outra norma adotada pela publicação.
 
 **Dissertações de mestrado e tese de doutorado**
 # Referências
