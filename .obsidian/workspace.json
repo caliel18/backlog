@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-04-20º.md",
+                "file": "dailynote/2026-04-21º.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-20º"
+              "title": "2026-04-21º"
             }
           }
         ]
@@ -84,13 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-04-20º.md",
+                "file": "dailynote/2026-04-21º.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2026-04-20º"
+              "title": "Sumário de 2026-04-21º"
             }
           },
           {
@@ -209,6 +209,7 @@
   "active": "154caf11b905c0df",
   "lastOpenFiles": [
     "dailynote/2026-04-20º.md",
+    "dailynote/2026-04-21º.md",
     "l/losslesscut.md",
     "n/nucleo-laboratorio.md",
     "resources-offlink/logo-CRX-prototipo.jpg",
@@ -234,7 +235,6 @@
     "l/log-x3xppc.md",
     "dailynote/2026-04-12º.md",
     "dailynote/2026-04-11º.md",
-    "i/inss.md",
     "Pasted image 20250916235840.png",
     "Pasted image 20250916235805.png",
     "Pasted image 20250916235620.png",
