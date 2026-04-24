@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news.blizzard.com/en-us/article/24267729/prepare-for-the-reckoning-lord-of-hatred-draws-near.md",
+                "file": "d/d4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prepare-for-the-reckoning-lord-of-hatred-draws-near"
+              "title": "d4"
             }
           }
         ]
@@ -84,13 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "news.blizzard.com/en-us/article/24267729/prepare-for-the-reckoning-lord-of-hatred-draws-near.md",
+                "file": "d/d4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de prepare-for-the-reckoning-lord-of-hatred-draws-near"
+              "title": "Sumário de d4"
             }
           },
           {
@@ -209,8 +209,12 @@
   },
   "active": "154caf11b905c0df",
   "lastOpenFiles": [
-    "d/d4.md",
+    "a/teste2.md",
+    "a/anotacao-sobre.md",
+    "a/agenda25.md",
+    "a/abnt.md",
     "news.blizzard.com/en-us/article/24267729/prepare-for-the-reckoning-lord-of-hatred-draws-near.md",
+    "d/d4.md",
     "news.blizzard.com/en-us/article/24267729",
     "news.blizzard.com/en-us/article",
     "news.blizzard.com/en-us",
@@ -225,8 +229,6 @@
     "e/exames-vodina.md",
     "d/dataview.md",
     "d/datas-aniversarios.md",
-    "a/agenda25.md",
-    "a/abnt.md",
     "dailynote/2026-04-19º.md",
     "dailynote/2026-04-18º.md",
     "dailynote/2026-04-17º.md",
@@ -238,8 +240,6 @@
     "dailynote/2026-04-14º.md",
     "dailynote/2026-04-13º.md",
     "l/log-x3xp.md",
-    "l/log-x3mtb.md",
-    "l/log-x3gskin.md",
     "Pasted image 20250916235840.png",
     "Pasted image 20250916235805.png",
     "Pasted image 20250916235620.png",
