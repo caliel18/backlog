@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-05-1º.md",
+                "file": "d/d4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-1º"
+              "title": "d4"
             }
           }
         ]
@@ -84,13 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-05-1º.md",
+                "file": "d/d4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2026-05-1º"
+              "title": "Sumário de d4"
             }
           },
           {
@@ -209,8 +209,8 @@
   },
   "active": "154caf11b905c0df",
   "lastOpenFiles": [
-    "d/d4.md",
     "dailynote/2026-05-1º.md",
+    "d/d4.md",
     "dailynote/2026-04-30º.md",
     "dailynote/2026-04-29º.md",
     "dailynote/2026-04-28º.md",
