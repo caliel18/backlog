@@ -22,7 +22,7 @@ Todo primeiro rascunho é perfeito porque tudo o que o primeiro rascunho precisa
 
 # "Decida que você quer algo mais do que teme falhar." – *Bill Cosby*
 
-# Aquele que tem um objetivo claro encontrará um caminho; aquele sem objetivo encontrará uma desculpa." – *Henry Ford*
+
 
 ![star](/icons/star.png)
 # "Estabelecer um objetivo é o ponto de partida de toda conquista." – *W. Clement Stone*
