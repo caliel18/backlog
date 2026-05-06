@@ -203,14 +203,16 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "154caf11b905c0df",
   "lastOpenFiles": [
+    "dailynote/2026-05-6º.md",
+    "d/d4.md",
     "dailynote/2026-05-5º.md",
     "dailynote/2026-05-4º.md",
-    "d/d4.md",
     "dailynote/2026-05-3º.md",
     "dailynote/2026-05-2º.md",
     "f/frases.md",
@@ -238,7 +240,6 @@
     "l/losslesscut.md",
     "n/nucleo-laboratorio.md",
     "resources-offlink/logo-CRX-prototipo.jpg",
-    "e/exames-vodina.md",
     "Pasted image 20250916235840.png",
     "Pasted image 20250916235805.png",
     "Pasted image 20250916235620.png",
