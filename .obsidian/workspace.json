@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d9c82bce6ad3e1b6",
+        "id": "49744b868507e4af",
         "type": "tabs",
         "children": [
           {
-            "id": "154caf11b905c0df",
+            "id": "d6998afd74a8eee8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dailynote/2026-05-8º.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-05-8º"
+              "title": "Nova aba"
             }
           }
         ]
@@ -84,13 +80,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-05-8º.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2026-05-8º"
+              "title": "Sumário"
             }
           },
           {
@@ -206,10 +201,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "154caf11b905c0df",
+  "active": "d6998afd74a8eee8",
   "lastOpenFiles": [
-    "a/agenda25.md",
     "dailynote/2026-05-8º.md",
+    "a/agenda25.md",
     "d/d4.md",
     "dailynote/2026-05-7º.md",
     "dailynote/2026-05-6º.md",
