@@ -25,12 +25,12 @@
             "id": "b7756eb6354e4b98",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "excalidraw",
               "state": {
                 "file": "a/excalidraw-20260514-0306.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Loading Excalidraw... excalidraw-20260514-0306.excalidraw"
+              "icon": "excalidraw-icon",
+              "title": "excalidraw-20260514-0306.excalidraw"
             }
           }
         ],
@@ -216,13 +216,15 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "b7756eb6354e4b98",
   "lastOpenFiles": [
-    "dailynote/2026-03-12 Procrastinar II.md",
+    "dailynote/2026-05-14º.md",
     "a/excalidraw-20260514-0306.excalidraw.md",
+    "dailynote/2026-03-12 Procrastinar II.md",
     "dailynote/2026-03-12 Procrastinar.md",
     "c/community-plugins.md",
     "c/checar-aluguelapt.md",
@@ -246,7 +248,6 @@
     "f/frases.md",
     "dailynote/2026-05-1º.md",
     "dailynote/2026-04-30º.md",
-    "dailynote/2026-04-29º.md",
     "news.blizzard.com/en-us/article/24267729",
     "news.blizzard.com/en-us/article",
     "news.blizzard.com/en-us",
