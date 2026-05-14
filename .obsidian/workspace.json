@@ -25,12 +25,14 @@
             "id": "b7756eb6354e4b98",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "a/excalidraw-20260514-0306.excalidraw.md"
+                "file": "b/badges.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "excalidraw-20260514-0306.excalidraw"
+              "icon": "lucide-file",
+              "title": "badges"
             }
           }
         ],
@@ -97,13 +99,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a/excalidraw-20260514-0306.excalidraw.md",
+                "file": "b/badges.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de excalidraw-20260514-0306.excalidraw"
+              "title": "Sumário de badges"
             }
           },
           {
@@ -222,8 +224,9 @@
   },
   "active": "b7756eb6354e4b98",
   "lastOpenFiles": [
-    "dailynote/2026-05-14º.md",
     "a/excalidraw-20260514-0306.excalidraw.md",
+    "b/badges.md",
+    "dailynote/2026-05-14º.md",
     "dailynote/2026-03-12 Procrastinar II.md",
     "dailynote/2026-03-12 Procrastinar.md",
     "c/community-plugins.md",
@@ -247,7 +250,6 @@
     "dailynote/2026-05-2º.md",
     "f/frases.md",
     "dailynote/2026-05-1º.md",
-    "dailynote/2026-04-30º.md",
     "news.blizzard.com/en-us/article/24267729",
     "news.blizzard.com/en-us/article",
     "news.blizzard.com/en-us",
