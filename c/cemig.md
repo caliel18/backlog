@@ -5,15 +5,15 @@ Altair Marques Coelho
 dta nasc  
 18/03/1942  
 cpf de login conta principal: 144587806-20  
-uNrSHITj914r@  
+uNrSHIT... 
 numero do cliente  
 7002727451  
 numero da instalação  
 3003442602  
-senha: aaaudcpap16ikki  
+senha: aaaudcpap...  
 recaptcha  
   
-senha app:@Saaaudcpap16ikki  
+senha app:@Saaaudcpap...  
   
 casas que estão no nome da vó Dina  
 num. da instalação da casa da frente  
