@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2026-03-12 Procrastinar II"
             }
+          },
+          {
+            "id": "b7756eb6354e4b98",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "a/excalidraw-20260514-0306.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "excalidraw-20260514-0306.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,13 +97,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-03-12 Procrastinar II.md",
+                "file": "a/excalidraw-20260514-0306.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2026-03-12 Procrastinar II"
+              "title": "Sumário de excalidraw-20260514-0306.excalidraw"
             }
           },
           {
@@ -207,14 +220,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d6998afd74a8eee8",
+  "active": "b7756eb6354e4b98",
   "lastOpenFiles": [
+    "dailynote/2026-03-12 Procrastinar II.md",
+    "a/excalidraw-20260514-0306.excalidraw.md",
     "dailynote/2026-03-12 Procrastinar.md",
     "c/community-plugins.md",
     "c/checar-aluguelapt.md",
     "c/cemig.md",
     "p/produtividade.md",
-    "dailynote/2026-03-12 Procrastinar II.md",
     "dailynote/2026-05-13 DiabloIV.md",
     "d/d4.md",
     "dailynote/2026-05-13º.md",
@@ -234,7 +248,6 @@
     "dailynote/2026-05-1º.md",
     "dailynote/2026-04-30º.md",
     "dailynote/2026-04-29º.md",
-    "dailynote/2026-04-28º.md",
     "news.blizzard.com/en-us/article/24267729",
     "news.blizzard.com/en-us/article",
     "news.blizzard.com/en-us",
