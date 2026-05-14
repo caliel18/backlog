@@ -25,12 +25,12 @@
             "id": "b7756eb6354e4b98",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "excalidraw-loading",
               "state": {
                 "file": "a/excalidraw-20260514-0306.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "excalidraw-20260514-0306.excalidraw"
+              "icon": "lucide-file",
+              "title": "Loading Excalidraw... excalidraw-20260514-0306.excalidraw"
             }
           }
         ],
@@ -216,8 +216,7 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "b7756eb6354e4b98",
