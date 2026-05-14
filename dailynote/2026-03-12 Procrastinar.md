@@ -150,6 +150,8 @@ markdown
 Excel
 Calendário analogico markdown ==(expandir seção)==
 dailynote ==(expandir seção)==
+
+Entretenimento forçado (expandir seção)
 # Referências
 ![Como eu parei de procrastinar](https://www.youtube.com/watch?v=bDdmfrLgLaw)
 
