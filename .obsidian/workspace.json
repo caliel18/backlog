@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-05-15º.md",
+                "file": "dailynote/2026-05-16º.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-15º"
+              "title": "2026-05-16º"
             }
           }
         ],
@@ -99,13 +99,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-05-15º.md",
+                "file": "dailynote/2026-05-16º.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2026-05-15º"
+              "title": "Sumário de 2026-05-16º"
             }
           },
           {
@@ -218,12 +218,14 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "b7756eb6354e4b98",
   "lastOpenFiles": [
     "dailynote/2026-05-15º.md",
+    "dailynote/2026-05-16º.md",
     "a/excalidraw-20260514-0306.excalidraw.md",
     "b/badges.md",
     "dailynote/2026-05-14º.md",
@@ -248,7 +250,6 @@
     "dailynote/2026-05-4º.md",
     "dailynote/2026-05-3º.md",
     "dailynote/2026-05-2º.md",
-    "f/frases.md",
     "news.blizzard.com/en-us/article/24267729",
     "news.blizzard.com/en-us/article",
     "news.blizzard.com/en-us",
